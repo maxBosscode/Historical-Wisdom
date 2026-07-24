@@ -1,0 +1,191 @@
+# Datenschutzerklärung
+
+**Zuletzt aktualisiert: 23. Juli 2026**  
+**Verantwortlicher:** Peter Švorc, Slowakei  
+**App:** Historical Wisdom  
+**Kontakt:** svorc930@gmail.com
+
+Diese Datenschutzerklärung erläutert, wie Historical Wisdom mit Informationen umgeht, wenn Sie die App nutzen.
+
+## 1. Wer wir sind
+
+Peter Švorc („wir“, „uns“) stellt die iOS-App Historical Wisdom bereit. Bei Datenschutzfragen wenden Sie sich bitte an svorc930@gmail.com.
+
+## 2. Kurzüberblick
+
+- Wir verlangen nicht, dass Sie ein Konto erstellen.
+- Die meisten Einstellungen und gespeicherten Zitate verbleiben auf Ihrem Gerät.
+- Käufe werden von Apple abgewickelt.
+- Wir können Inhalte des Zitatkatalogs von unseren Servern oder einem Backend-Anbieter laden oder aktualisieren.
+- Wir verkaufen Ihre personenbezogenen Daten nicht.
+
+## 3. Welche Informationen wir verarbeiten
+
+### Auf Ihrem Gerät
+
+Je nachdem, wie Sie die App nutzen, können dazu Onboarding-Einstellungen, Anzeigename, Serien und Zähler, gespeicherte Zitate und Listen, Theme- und Benachrichtigungseinstellungen sowie Widget-Einstellungen gehören, die über eine App Group auf Ihrem Gerät mit der Widget-Erweiterung geteilt werden.
+
+### Käufe (Apple)
+
+Abonnements und Testzeiträume werden von Apple verarbeitet. Wir erhalten den Abonnementstatus, der zum Freischalten von Premium erforderlich ist. Wir erhalten nicht Ihre vollständigen Zahlungskartendaten.
+
+### Benachrichtigungen
+
+Wenn Sie Erinnerungen aktivieren, plant die App lokale Benachrichtigungen auf Ihrem Gerät.
+
+### Inhaltsbereitstellung
+
+Wenn die App einen aktualisierten Katalog von einem Remote-Dienst abruft, kann Ihr Gerät Netzwerkanfragen stellen, die übliche technische Daten enthalten, die zur Bereitstellung der Inhalte verarbeitet werden.
+
+## 4. Warum wir Daten verarbeiten (DSGVO)
+
+Soweit die DSGVO (GDPR) gilt, verarbeiten wir Daten, um die App bereitzustellen (Vertrag), Premium über Apple-Berechtigungen freizuschalten (Vertrag), von Ihnen aktivierte Erinnerungen zu senden (Einwilligung/Berechtigung), die Zuverlässigkeit zu verbessern (berechtigte Interessen) und gesetzlichen Pflichten nachzukommen (rechtliche Verpflichtung).
+
+Sie können die Benachrichtigungsberechtigung jederzeit in den iOS-Einstellungen widerrufen.
+
+## 5. Weitergabe
+
+Wir geben Informationen nur soweit erforderlich an Apple und Infrastrukturanbieter weiter, die Kataloginhalte hosten oder bereitstellen, oder an Behörden, wenn dies gesetzlich vorgeschrieben ist. Wir verkaufen keine personenbezogenen Daten und nutzen Ihre Inhalte nicht für Werbung Dritter.
+
+## 6. Speicherdauer
+
+Lokale App-Daten verbleiben, bis Sie sie in der App löschen (soweit verfügbar) oder die App löschen. Abonnementdaten werden von Apple gemäß den Richtlinien von Apple aufbewahrt.
+
+## 7. Sicherheit
+
+Wir setzen angemessene technische Maßnahmen ein, die für eine mobile Verbraucher-App geeignet sind. Keine Speicher- oder Übertragungsmethode ist zu 100 % sicher.
+
+## 8. Ihre Rechte (EU/EWR/Slowakei)
+
+Sie können unter anderem Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung oder Widerspruch gegen bestimmte Verarbeitungen sowie auf Datenübertragbarkeit haben, soweit anwendbar.
+
+Da die meisten Daten auf dem Gerät liegen, ist die wirksamste Kontrolle oft auf Ihrem iPhone. Um Rechte in Bezug auf von uns gespeicherte Daten auszuüben, schreiben Sie an svorc930@gmail.com. Sie können auch eine Beschwerde bei der slowakischen Datenschutzbehörde einreichen (Úrad na ochranu osobných údajov SR – Amt für den Schutz personenbezogener Daten der Slowakischen Republik).
+
+## 9. Kinder
+
+Die App richtet sich nicht an Kinder unter 13 Jahren. Wir erheben wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren.
+
+## 10. Änderungen
+
+Wir können diese Datenschutzerklärung aktualisieren. In diesem Fall ändern wir das Datum „Zuletzt aktualisiert“.
+
+## 11. Kontakt
+
+Peter Švorc  
+Slowakei  
+E-Mail: svorc930@gmail.com
+
+
+# Nutzungsbedingungen
+
+**Zuletzt aktualisiert: 23. Juli 2026**  
+**Anbieter:** Peter Švorc, Slowakei  
+**App:** Historical Wisdom  
+**Kontakt:** svorc930@gmail.com
+
+Willkommen bei Historical Wisdom. Diese Nutzungsbedingungen („Bedingungen“) regeln das Herunterladen, den Zugriff auf und die Nutzung der App.
+
+Indem Sie die App herunterladen, darauf zugreifen oder sie nutzen, erklären Sie sich mit diesen Bedingungen einverstanden. Wenn Sie nicht einverstanden sind, nutzen Sie die App bitte nicht.
+
+## 1. Über die App
+
+Historical Wisdom ist eine App für persönliche Reflexion und Lernen. Sie stellt historische Zitate, Ideen und verwandte Bildungsinhalte bedeutender historischer Persönlichkeiten und Epochen bereit.
+
+Die App dient der Inspiration, Bildung und persönlichen Weiterentwicklung. Sie bietet keine fachliche, medizinische, psychologische, finanzielle oder rechtliche Beratung.
+
+Die App wird in der Regel ohne Erstellung eines Kontos genutzt. Einstellungen, Serien (Streaks) und gespeicherte Inhalte werden vorwiegend auf Ihrem Gerät gespeichert.
+
+## 2. Nutzung der App
+
+Sie dürfen die App zu persönlichen, nicht kommerziellen Zwecken nutzen.
+
+Sie verpflichten sich, Folgendes zu unterlassen:
+
+- Inhalte der App ohne unsere Erlaubnis zu kopieren, weiterzuverbreiten, zu verkaufen oder kommerziell zu verwerten (soweit gesetzlich nicht anders gestattet).
+- Die App zurückzuentwickeln (Reverse Engineering), zu verändern oder in sie einzugreifen, es sei denn, zwingendes Recht erlaubt dies.
+- Die App in einer Weise zu nutzen, die geltende Gesetze oder Vorschriften verletzt.
+- Abonnements, Testzeiträume oder Wiederherstellungsabläufe zu missbrauchen.
+
+## 3. Inhaltsgenauigkeit
+
+Wir bemühen uns, sinnvolle historische Inhalte bereitzustellen. Historische Quellen, Übersetzungen, Zuschreibungen und Interpretationen können voneinander abweichen. Zitate können übersetzt, allgemein zugeschrieben oder in verkürzter Form dargestellt sein.
+
+Wir garantieren nicht, dass jedes Zitat, jede Zuschreibung, jede Übersetzung oder jede historische Aussage vollständig oder fehlerfrei ist. Die Inhalte dienen ausschließlich der Information.
+
+## 4. Abonnements und Zahlungen
+
+Optionale Premium-Funktionen werden als automatisch verlängerbare Abonnements über Apple über den App Store verkauft. Es gelten zusätzlich die Bedingungen und Abrechnungsregeln von Apple.
+
+### Pläne
+
+Die Pläne können ein wöchentliches und ein jährliches Abonnement umfassen (ggf. mit kostenlosem Testzeitraum, sofern Sie berechtigt sind). Genaue Preise, Währungen und die Verfügbarkeit von Testzeiträumen werden vor dem Kauf angezeigt und können je nach Region variieren.
+
+### Abrechnung und Verlängerung
+
+- Die Zahlung wird bei Kaufbestätigung Ihrem Apple ID belastet.
+- Abonnements verlängern sich automatisch, sofern Sie nicht mindestens 24 Stunden vor Ablauf des laufenden Zeitraums kündigen.
+- Ihr Konto wird innerhalb von 24 Stunden vor Ablauf des laufenden Zeitraums mit der Verlängerungsgebühr belastet.
+- Verwalten oder kündigen Sie unter Einstellungen → Abonnements auf Ihrem Apple-Gerät.
+- Das Löschen der App beendet Ihr Abonnement nicht.
+
+### Testzeiträume und Erstattungen
+
+Die Berechtigung für Testzeiträume wird von Apple festgelegt. Erstattungsanfragen für App-Store-Käufe werden von Apple gemäß den Erstattungsrichtlinien von Apple bearbeitet.
+
+## 5. Premium-Funktionen
+
+Premium kann erweiterten oder unbegrenzten Zugang zu Zitaten und Erkundung, Speichern und Listen, Widgets und Anpassungen, Lesepfade sowie weitere erweiterte Funktionen umfassen.
+
+Kostenlose Nutzerinnen und Nutzer können begrenzte tägliche Inhalte und ausgewählte kostenlose Bereiche nutzen. Wir können Funktionen im Laufe der Zeit aktualisieren.
+
+## 6. Widgets und Benachrichtigungen
+
+Widgets für den Home-Bildschirm oder den Sperrbildschirm sowie Erinnerungen hängen von iOS-Berechtigungen und dem Systemverhalten ab.
+
+## 7. Ihre Inhalte
+
+Wenn Sie persönliche Sammlungen, Listen oder gespeicherte Einträge anlegen, bleiben Sie für diese Inhalte verantwortlich. Wir beanspruchen kein Eigentum an Ihren persönlich auf Ihrem Gerät gespeicherten Inhalten.
+
+## 8. Geistiges Eigentum
+
+App-Name, Design, Markenauftritt, Software, Grafiken und Originalmaterialien stehen im Eigentum von Peter Švorc oder sind an diesen lizenziert.
+
+Historische Zitate und verwandte Materialien unterliegen weiterhin den jeweiligen Rechten und Quellen.
+
+## 9. Datenschutz
+
+Wie wir mit Informationen umgehen, ist in unserer Datenschutzerklärung beschrieben.
+
+## 10. Dienste Dritter
+
+Wir nutzen Apple (App Store, Abrechnung, Gerätedienste) und können Infrastrukturanbieter einsetzen, um den Zitatkatalog bereitzustellen oder zu aktualisieren.
+
+## 11. Verfügbarkeit
+
+Wir bemühen uns um eine zuverlässige App, garantieren jedoch keinen unterbrechungsfreien oder fehlerfreien Zugang.
+
+## 12. Haftungsausschluss und Haftungsbeschränkung
+
+Die App wird „wie besehen“ und „wie verfügbar“ bereitgestellt.
+
+Nichts in diesen Bedingungen schließt Rechte aus oder beschränkt Rechte, die Ihnen als Verbraucher nach dem zwingenden Recht der Slowakei oder der Europäischen Union zustehen.
+
+Vorbehaltlich dessen haften wir im gesetzlich zulässigen Höchstmaß nicht für indirekte, zufällige oder Folgeschäden, die aus Ihrer Nutzung der App entstehen.
+
+## 13. Kinder
+
+Die App richtet sich nicht an Kinder unter 13 Jahren.
+
+## 14. Änderungen
+
+Wir können diese Bedingungen von Zeit zu Zeit aktualisieren. Die fortgesetzte Nutzung nach Aktualisierungen bedeutet, dass Sie die aktualisierten Bedingungen akzeptieren, soweit zwingendes Recht nichts anderes verlangt.
+
+## 15. Kontakt
+
+Peter Švorc  
+Slowakei  
+E-Mail: svorc930@gmail.com
+
+## 16. Anwendbares Recht
+
+Diese Bedingungen unterliegen dem Recht der Slowakischen Republik. Wenn Sie Verbraucher in der EU/im EWR sind, können Sie zusätzlich von den zwingenden Schutzvorschriften Ihres Wohnsitzlandes profitieren.
