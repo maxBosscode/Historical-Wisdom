@@ -1,0 +1,192 @@
+# Politique de confidentialité
+
+**Dernière mise à jour : 23 juillet 2026**  
+**Responsable du traitement :** Peter Švorc, Slovaquie  
+**App :** Historical Wisdom  
+**Contact :** svorc930@gmail.com
+
+La présente Politique de confidentialité explique comment Historical Wisdom traite les informations lorsque vous utilisez l’App.
+
+## 1. Qui nous sommes
+
+Peter Švorc (« nous ») fournit l’application iOS Historical Wisdom. Pour toute question relative à la confidentialité, contactez svorc930@gmail.com.
+
+## 2. Résumé
+
+- Nous ne vous demandons pas de créer un compte.
+- La plupart des préférences et des citations enregistrées restent sur votre appareil.
+- Les achats sont gérés par Apple.
+- Nous pouvons charger ou mettre à jour le contenu du catalogue de citations depuis nos serveurs ou un prestataire backend.
+- Nous ne vendons pas vos données personnelles.
+
+## 3. Informations que nous traitons
+
+### Sur votre appareil
+
+Selon la manière dont vous utilisez l’App, cela peut inclure les préférences d’intégration (onboarding), le nom d’affichage, les séries et compteurs, les citations et listes enregistrées, les paramètres de thème et de notifications, ainsi que les préférences de widgets partagées avec l’extension de widget via un App Group sur votre appareil.
+
+### Achats (Apple)
+
+Les abonnements et les périodes d’essai sont traités par Apple. Nous recevons le statut d’abonnement nécessaire pour débloquer Premium. Nous ne recevons pas les données complètes de votre carte de paiement.
+
+### Notifications
+
+Si vous activez les rappels, l’App planifie des notifications locales sur votre appareil.
+
+### Fourniture de contenu
+
+Si l’App récupère un catalogue mis à jour auprès d’un service distant, votre appareil peut effectuer des requêtes réseau incluant des données techniques standard traitées pour fournir le contenu.
+
+## 4. Pourquoi nous traitons les données (RGPD)
+
+Lorsque le RGPD (GDPR) s’applique, nous traitons les données pour fournir l’App (contrat), débloquer Premium via les droits Apple (contrat), envoyer les rappels que vous avez activés (consentement/autorisation), améliorer la fiabilité (intérêts légitimes) et respecter la loi (obligation légale).
+
+Vous pouvez retirer l’autorisation de notification à tout moment dans les Réglages iOS.
+
+## 5. Partage
+
+Nous ne partageons des informations qu’autant que nécessaire avec Apple et les prestataires d’infrastructure qui hébergent ou fournissent le contenu du catalogue, ou avec les autorités si la loi l’exige. Nous ne vendons pas de données personnelles et n’utilisons pas votre contenu pour de la publicité de tiers.
+
+## 6. Conservation
+
+Les données locales de l’App demeurent jusqu’à ce que vous les supprimiez dans l’App (lorsque disponible) ou que vous supprimiez l’App. Les enregistrements d’abonnement sont conservés par Apple conformément aux politiques d’Apple.
+
+## 7. Sécurité
+
+Nous utilisons des mesures techniques raisonnables adaptées à une application mobile grand public. Aucune méthode de stockage ou de transmission n’est sécurisée à 100 %.
+
+## 8. Vos droits (UE/EEE/Slovaquie)
+
+Vous pouvez disposer de droits d’accès, de rectification, d’effacement, de limitation ou d’opposition à certains traitements, ainsi que de portabilité des données, le cas échéant.
+
+La plupart des données étant sur l’appareil, le contrôle le plus efficace se trouve souvent sur votre iPhone. Pour exercer vos droits concernant les données que nous détenons, envoyez un e-mail à svorc930@gmail.com. Vous pouvez également déposer une plainte auprès de l’autorité slovaque de protection des données (Úrad na ochranu osobných údajov SR — Office de protection des données personnelles de la République slovaque).
+
+## 9. Enfants
+
+L’App ne s’adresse pas aux enfants de moins de 13 ans. Nous ne collectons pas sciemment de données personnelles auprès d’enfants de moins de 13 ans.
+
+## 10. Modifications
+
+Nous pouvons mettre à jour la présente Politique de confidentialité. Nous modifierons alors la date de « Dernière mise à jour ».
+
+## 11. Contact
+
+Peter Švorc  
+Slovaquie  
+E-mail : svorc930@gmail.com
+
+
+
+# Conditions d’utilisation
+
+**Dernière mise à jour : 23 juillet 2026**  
+**Fournisseur :** Peter Švorc, Slovaquie  
+**App :** Historical Wisdom  
+**Contact :** svorc930@gmail.com
+
+Bienvenue sur Historical Wisdom. Les présentes Conditions d’utilisation (« Conditions ») régissent le téléchargement, l’accès et l’utilisation de l’App.
+
+En téléchargeant, en accédant à ou en utilisant l’App, vous acceptez les présentes Conditions. Si vous n’acceptez pas, n’utilisez pas l’App.
+
+## 1. À propos de l’App
+
+Historical Wisdom est une application de réflexion personnelle et d’apprentissage qui propose des citations historiques, des idées et des contenus éducatifs associés issus de figures et de périodes historiques marquantes.
+
+L’App est destinée à l’inspiration, à l’éducation et au développement personnel. Elle ne fournit aucun conseil professionnel, médical, psychologique, financier ou juridique.
+
+L’App s’utilise généralement sans création de compte. Les préférences, les séries (streaks) et le contenu enregistré sont stockés principalement sur votre appareil.
+
+## 2. Utilisation de l’App
+
+Vous pouvez utiliser l’App à des fins personnelles et non commerciales.
+
+Vous vous engagez à ne pas :
+
+- Copier, redistribuer, vendre ou exploiter commercialement le contenu de l’App sans notre autorisation (sauf dans la mesure permise par la loi).
+- Procéder à de l’ingénierie inverse, modifier ou interférer avec l’App, sauf lorsque le droit impératif le permet.
+- Utiliser l’App d’une manière qui enfreint les lois ou réglementations applicables.
+- Tenter d’abuser des abonnements, des périodes d’essai ou des flux de restauration.
+
+## 3. Exactitude du contenu
+
+Nous nous efforçons de fournir un contenu historique pertinent. Les sources historiques, traductions, attributions et interprétations peuvent varier. Les citations peuvent être traduites, couramment attribuées ou présentées sous une forme abrégée.
+
+Nous ne garantissons pas que chaque citation, attribution, traduction ou affirmation historique soit complète ou exempte d’erreurs. Le contenu est fourni à titre informatif uniquement.
+
+## 4. Abonnements et paiements
+
+Les fonctionnalités Premium optionnelles sont vendues sous forme d’abonnements à renouvellement automatique via Apple par l’intermédiaire de l’App Store. Les conditions et règles de facturation d’Apple s’appliquent également.
+
+### Formules
+
+Les formules peuvent inclure un abonnement hebdomadaire et un abonnement annuel (pouvant comprendre une période d’essai gratuite lorsque vous y êtes éligible). Les prix exacts, devises et disponibilité des essais sont indiqués avant l’achat et peuvent varier selon la région.
+
+### Facturation et renouvellement
+
+- Le paiement est débité de votre Apple ID lors de la confirmation de l’achat.
+- Les abonnements se renouvellent automatiquement sauf si vous les résiliez au moins 24 heures avant la fin de la période en cours.
+- Votre compte sera débité pour le renouvellement dans les 24 heures précédant la fin de la période en cours.
+- Gérez ou résiliez dans Réglages → Abonnements sur votre appareil Apple.
+- La suppression de l’App ne résilie pas votre abonnement.
+
+### Essais et remboursements
+
+L’éligibilité aux essais est déterminée par Apple. Les demandes de remboursement pour les achats App Store sont traitées par Apple conformément aux politiques de remboursement d’Apple.
+
+## 5. Fonctionnalités Premium
+
+Premium peut inclure un accès étendu ou illimité aux citations et à l’exploration, à l’enregistrement et aux listes, aux widgets et à la personnalisation, aux parcours de lecture et à d’autres fonctionnalités avancées.
+
+Les utilisateurs gratuits peuvent accéder à un contenu quotidien limité et à certaines zones gratuites. Nous pouvons mettre à jour les fonctionnalités au fil du temps.
+
+## 6. Widgets et notifications
+
+Les widgets d’écran d’accueil ou d’écran de verrouillage et les rappels dépendent des autorisations iOS et du comportement du système.
+
+## 7. Votre contenu
+
+Si vous créez des collections personnelles, des listes ou des éléments enregistrés, vous restez responsable de ce contenu. Nous ne revendiquons pas la propriété de votre contenu personnel enregistré sur votre appareil.
+
+## 8. Propriété intellectuelle
+
+Le nom de l’App, le design, l’identité de marque, le logiciel, les graphismes et les matériaux originaux appartiennent à Peter Švorc ou lui sont concédés sous licence.
+
+Les citations historiques et les matériaux associés restent soumis à leurs droits et sources respectifs.
+
+## 9. Confidentialité
+
+La manière dont nous traitons les informations est décrite dans notre Politique de confidentialité.
+
+## 10. Services tiers
+
+Nous utilisons Apple (App Store, facturation, services de l’appareil) et pouvons faire appel à des prestataires d’infrastructure pour fournir ou mettre à jour le catalogue de citations.
+
+## 11. Disponibilité
+
+Nous nous efforçons de maintenir une App fiable, mais ne garantissons pas un accès ininterrompu ou sans erreur.
+
+## 12. Avertissement et limitation de responsabilité
+
+L’App est fournie « en l’état » et « selon disponibilité ».
+
+Rien dans les présentes Conditions n’exclut ni ne limite les droits dont vous disposez en tant que consommateur au titre des lois impératives de la Slovaquie ou de l’Union européenne.
+
+Sous réserve de ce qui précède, dans toute la mesure permise par la loi, nous ne sommes pas responsables des dommages indirects, accessoires ou consécutifs résultant de votre utilisation de l’App.
+
+## 13. Enfants
+
+L’App ne s’adresse pas aux enfants de moins de 13 ans.
+
+## 14. Modifications
+
+Nous pouvons mettre à jour les présentes Conditions de temps à autre. L’utilisation continue après une mise à jour signifie que vous acceptez les Conditions mises à jour, sauf lorsque le droit impératif en dispose autrement.
+
+## 15. Contact
+
+Peter Švorc  
+Slovaquie  
+E-mail : svorc930@gmail.com
+
+## 16. Droit applicable
+
+Les présentes Conditions sont régies par les lois de la République slovaque. Si vous êtes un consommateur dans l’UE/EEE, vous pouvez également bénéficier des protections impératives de votre pays de résidence.
