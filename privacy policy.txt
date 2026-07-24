@@ -1,1 +1,192 @@
+# Privacy Policy
 
+**Last updated: 23 July 2026**  
+**Controller:** Peter Švorc, Slovakia  
+**App:** Historical Wisdom  
+**Contact:** svorc930@gmail.com
+
+This Privacy Policy explains how Historical Wisdom handles information when you use the App.
+
+## 1. Who we are
+
+Peter Švorc (“we,” “us”) provides the Historical Wisdom iOS app. For privacy questions, contact svorc930@gmail.com.
+
+## 2. Summary
+
+- We do not require you to create an account.
+- Most preferences and saved quotes stay on your device.
+- Purchases are handled by Apple.
+- We may load or update quote catalog content from our servers or a backend provider.
+- We do not sell your personal data.
+
+## 3. Information we process
+
+### On your device
+
+Depending on how you use the App, this may include onboarding preferences, display name, streak and counters, saved quotes and lists, theme and notification settings, and widget preferences shared with the widget extension via an App Group on your device.
+
+### Purchases (Apple)
+
+Subscriptions and trials are processed by Apple. We receive subscription status needed to unlock Premium. We do not receive your full payment card details.
+
+### Notifications
+
+If you enable reminders, the App schedules local notifications on your device.
+
+### Content delivery
+
+If the App fetches an updated catalog from a remote service, your device may make network requests that include standard technical data processed to deliver content.
+
+## 4. Why we process data (GDPR)
+
+Where GDPR applies, we process data to provide the App (contract), unlock Premium via Apple entitlements (contract), send reminders you enabled (consent/permission), improve reliability (legitimate interests), and comply with law (legal obligation).
+
+You can withdraw notification permission in iOS Settings at any time.
+
+## 5. Sharing
+
+We share information only as needed with Apple and infrastructure providers that host or deliver catalog content, or authorities if required by law. We do not sell personal data and do not use your content for third-party advertising.
+
+## 6. Retention
+
+Local App data remains until you delete it in-App (where available) or delete the App. Subscription records are retained by Apple according to Apple’s policies.
+
+## 7. Security
+
+We use reasonable technical measures appropriate for a consumer mobile app. No method of storage or transmission is 100% secure.
+
+## 8. Your rights (EU/EEA/Slovakia)
+
+You may have rights to access, rectify, erase, restrict, or object to certain processing, and to data portability, where applicable.
+
+Because most data is on-device, the most effective control is often on your iPhone. To exercise rights regarding any data we hold, email svorc930@gmail.com. You may also lodge a complaint with the Slovak Data Protection Authority (Úrad na ochranu osobných údajov SR).
+
+## 9. Children
+
+The App is not directed at children under 13. We do not knowingly collect personal data from children under 13.
+
+## 10. Changes
+
+We may update this Privacy Policy. We will change the “Last updated” date when we do.
+
+## 11. Contact
+
+Peter Švorc  
+Slovakia  
+Email: svorc930@gmail.com
+
+
+
+# Terms of Service
+
+**Last updated: 23 July 2026**  
+**Provider:** Peter Švorc, Slovakia  
+**App:** Historical Wisdom  
+**Contact:** svorc930@gmail.com
+
+Welcome to Historical Wisdom. These Terms of Service (“Terms”) govern your download, access, and use of the App.
+
+By downloading, accessing, or using the App, you agree to these Terms. If you do not agree, do not use the App.
+
+## 1. About the App
+
+Historical Wisdom is a personal reflection and learning app that provides historical quotes, ideas, and related educational content from notable historical figures and periods.
+
+The App is for inspiration, education, and personal growth. It does not provide professional, medical, psychological, financial, or legal advice.
+
+The App is generally used without creating an account. Preferences, streaks, and saved content are stored primarily on your device.
+
+## 2. Use of the App
+
+You may use the App for personal, non-commercial purposes.
+
+You agree not to:
+
+- Copy, redistribute, sell, or commercially exploit App content without our permission (except as allowed by law).
+- Reverse engineer, modify, or interfere with the App, except where mandatory law allows.
+- Use the App in a way that violates applicable laws or regulations.
+- Attempt to abuse subscriptions, trials, or restore flows.
+
+## 3. Content accuracy
+
+We aim to provide meaningful historical content. Historical sources, translations, attributions, and interpretations can vary. Quotes may be translated, commonly attributed, or presented in a shortened form.
+
+We do not guarantee that every quote, attribution, translation, or historical statement is complete or error-free. Content is informational only.
+
+## 4. Subscriptions and payments
+
+Optional Premium features are sold as auto-renewable subscriptions through Apple via the App Store. Apple’s terms and billing rules also apply.
+
+### Plans
+
+Plans may include a weekly subscription and a yearly subscription (which may include a free trial when eligible). Exact prices, currencies, and trial availability are shown before purchase and may vary by region.
+
+### Billing and renewal
+
+- Payment is charged to your Apple ID at confirmation of purchase.
+- Subscriptions automatically renew unless you cancel at least 24 hours before the end of the current period.
+- Your account will be charged for renewal within 24 hours prior to the end of the current period.
+- Manage or cancel in Settings → Subscriptions on your Apple device.
+- Deleting the App does not cancel your subscription.
+
+### Trials and refunds
+
+Trial eligibility is determined by Apple. Refund requests for App Store purchases are handled by Apple under Apple’s refund policies.
+
+## 5. Premium features
+
+Premium may include expanded or unlimited access to quotes and exploration, saving and lists, widgets and customization, reading paths, and other enhanced features.
+
+Free users may access limited daily content and selected free areas. We may update features over time.
+
+## 6. Widgets and notifications
+
+Home Screen or Lock Screen widgets and reminders depend on iOS permissions and system behavior.
+
+## 7. Your content
+
+If you create personal collections, lists, or saved items, you remain responsible for that content. We do not claim ownership of your personal saved content on your device.
+
+## 8. Intellectual property
+
+App name, design, branding, software, graphics, and original materials are owned by or licensed to Peter Švorc.
+
+Historical quotes and related materials remain subject to their respective rights and sources.
+
+## 9. Privacy
+
+How we handle information is described in our Privacy Policy.
+
+## 10. Third-party services
+
+We use Apple (App Store, billing, device services) and may use infrastructure providers to deliver or update the quote catalog.
+
+## 11. Availability
+
+We aim to keep the App reliable but do not guarantee uninterrupted or error-free access.
+
+## 12. Disclaimer and limitation of liability
+
+The App is provided on an “as is” and “as available” basis.
+
+Nothing in these Terms excludes or limits any rights you have as a consumer under the mandatory laws of Slovakia or the European Union.
+
+Subject to that, to the maximum extent permitted by law, we are not liable for indirect, incidental, or consequential damages arising from your use of the App.
+
+## 13. Children
+
+The App is not directed at children under 13.
+
+## 14. Changes
+
+We may update these Terms from time to time. Continued use after updates means you accept the updated Terms, except where mandatory law requires otherwise.
+
+## 15. Contact
+
+Peter Švorc  
+Slovakia  
+Email: svorc930@gmail.com
+
+## 16. Governing law
+
+These Terms are governed by the laws of the Slovak Republic. If you are a consumer in the EU/EEA, you may also benefit from mandatory protections of your country of residence.
