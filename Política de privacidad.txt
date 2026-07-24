@@ -1,0 +1,192 @@
+# Política de privacidad
+
+**Última actualización: 23 de julio de 2026**  
+**Responsable:** Peter Švorc, Eslovaquia  
+**App:** Historical Wisdom  
+**Contacto:** svorc930@gmail.com
+
+Esta Política de privacidad explica cómo Historical Wisdom trata la información cuando usted utiliza la App.
+
+## 1. Quiénes somos
+
+Peter Švorc («nosotros») proporciona la app iOS Historical Wisdom. Para consultas de privacidad, contacte con svorc930@gmail.com.
+
+## 2. Resumen
+
+- No le exigimos que cree una cuenta.
+- La mayoría de las preferencias y citas guardadas permanecen en su dispositivo.
+- Las compras las gestiona Apple.
+- Podemos cargar o actualizar el contenido del catálogo de citas desde nuestros servidores o un proveedor de backend.
+- No vendemos sus datos personales.
+
+## 3. Información que tratamos
+
+### En su dispositivo
+
+Según cómo utilice la App, esto puede incluir preferencias de incorporación (onboarding), nombre para mostrar, rachas y contadores, citas y listas guardadas, ajustes de tema y notificaciones, y preferencias de widgets compartidas con la extensión de widget mediante un App Group en su dispositivo.
+
+### Compras (Apple)
+
+Las suscripciones y los periodos de prueba los procesa Apple. Recibimos el estado de suscripción necesario para desbloquear Premium. No recibimos los datos completos de su tarjeta de pago.
+
+### Notificaciones
+
+Si activa los recordatorios, la App programa notificaciones locales en su dispositivo.
+
+### Entrega de contenido
+
+Si la App obtiene un catálogo actualizado de un servicio remoto, su dispositivo puede realizar solicitudes de red que incluyen datos técnicos estándar tratados para entregar el contenido.
+
+## 4. Por qué tratamos datos (RGPD)
+
+Cuando se aplica el RGPD (GDPR), tratamos datos para prestar la App (contrato), desbloquear Premium mediante derechos de Apple (contrato), enviar los recordatorios que usted ha activado (consentimiento/permiso), mejorar la fiabilidad (intereses legítimos) y cumplir la ley (obligación legal).
+
+Puede retirar el permiso de notificaciones en cualquier momento en Ajustes de iOS.
+
+## 5. Cesión
+
+Compartimos información solo cuando es necesario con Apple y con proveedores de infraestructura que alojan o entregan el contenido del catálogo, o con autoridades si la ley lo exige. No vendemos datos personales y no utilizamos su contenido para publicidad de terceros.
+
+## 6. Conservación
+
+Los datos locales de la App permanecen hasta que los elimine en la App (cuando esté disponible) o elimine la App. Los registros de suscripción los conserva Apple conforme a las políticas de Apple.
+
+## 7. Seguridad
+
+Utilizamos medidas técnicas razonables adecuadas para una app móvil de consumo. Ningún método de almacenamiento o transmisión es 100 % seguro.
+
+## 8. Sus derechos (UE/EEE/Eslovaquia)
+
+Puede tener derechos de acceso, rectificación, supresión, limitación u oposición a determinados tratamientos, así como a la portabilidad de los datos, cuando proceda.
+
+Dado que la mayoría de los datos están en el dispositivo, el control más eficaz suele estar en su iPhone. Para ejercer derechos respecto a cualquier dato que conservemos, envíe un correo a svorc930@gmail.com. También puede presentar una reclamación ante la autoridad eslovaca de protección de datos (Úrad na ochranu osobných údajov SR — Oficina de Protección de Datos Personales de la República Eslovaca).
+
+## 9. Menores
+
+La App no está dirigida a menores de 13 años. No recopilamos conscientemente datos personales de menores de 13 años.
+
+## 10. Cambios
+
+Podemos actualizar esta Política de privacidad. Cuando lo hagamos, modificaremos la fecha de «Última actualización».
+
+## 11. Contacto
+
+Peter Švorc  
+Eslovaquia  
+Correo electrónico: svorc930@gmail.com
+
+
+
+# Términos de servicio
+
+**Última actualización: 23 de julio de 2026**  
+**Proveedor:** Peter Švorc, Eslovaquia  
+**App:** Historical Wisdom  
+**Contacto:** svorc930@gmail.com
+
+Bienvenido/a a Historical Wisdom. Estos Términos de servicio («Términos») rigen la descarga, el acceso y el uso de la App.
+
+Al descargar, acceder o utilizar la App, usted acepta estos Términos. Si no está de acuerdo, no utilice la App.
+
+## 1. Acerca de la App
+
+Historical Wisdom es una aplicación de reflexión personal y aprendizaje que ofrece citas históricas, ideas y contenido educativo relacionado de figuras y periodos históricos relevantes.
+
+La App está pensada para la inspiración, la educación y el crecimiento personal. No proporciona asesoramiento profesional, médico, psicológico, financiero ni jurídico.
+
+La App se utiliza generalmente sin crear una cuenta. Las preferencias, las rachas y el contenido guardado se almacenan principalmente en su dispositivo.
+
+## 2. Uso de la App
+
+Puede utilizar la App con fines personales y no comerciales.
+
+Usted se compromete a no:
+
+- Copiar, redistribuir, vender o explotar comercialmente el contenido de la App sin nuestro permiso (salvo lo permitido por la ley).
+- Realizar ingeniería inversa, modificar o interferir con la App, salvo cuando lo permita la ley imperativa.
+- Utilizar la App de forma que infrinja las leyes o normativas aplicables.
+- Intentar abusar de las suscripciones, los periodos de prueba o los flujos de restauración.
+
+## 3. Exactitud del contenido
+
+Nos esforzamos por ofrecer contenido histórico significativo. Las fuentes históricas, las traducciones, las atribuciones y las interpretaciones pueden variar. Las citas pueden estar traducidas, atribuidas de forma habitual o presentadas de forma abreviada.
+
+No garantizamos que cada cita, atribución, traducción o afirmación histórica sea completa o esté libre de errores. El contenido es únicamente informativo.
+
+## 4. Suscripciones y pagos
+
+Las funciones Premium opcionales se venden como suscripciones de renovación automática a través de Apple mediante el App Store. También se aplican los términos y las normas de facturación de Apple.
+
+### Planes
+
+Los planes pueden incluir una suscripción semanal y una suscripción anual (que puede incluir un periodo de prueba gratuito cuando corresponda). Los precios exactos, las monedas y la disponibilidad de la prueba se muestran antes de la compra y pueden variar según la región.
+
+### Facturación y renovación
+
+- El pago se carga a su Apple ID al confirmar la compra.
+- Las suscripciones se renuevan automáticamente a menos que las cancele al menos 24 horas antes del final del periodo actual.
+- Su cuenta se cargará por la renovación dentro de las 24 horas anteriores al final del periodo actual.
+- Gestione o cancele en Ajustes → Suscripciones en su dispositivo Apple.
+- Eliminar la App no cancela su suscripción.
+
+### Periodos de prueba y reembolsos
+
+La elegibilidad para el periodo de prueba la determina Apple. Las solicitudes de reembolso de compras del App Store las gestiona Apple conforme a las políticas de reembolso de Apple.
+
+## 5. Funciones Premium
+
+Premium puede incluir acceso ampliado o ilimitado a citas y exploración, guardado y listas, widgets y personalización, recorridos de lectura y otras funciones mejoradas.
+
+Los usuarios gratuitos pueden acceder a contenido diario limitado y a áreas gratuitas seleccionadas. Podemos actualizar las funciones con el tiempo.
+
+## 6. Widgets y notificaciones
+
+Los widgets de la pantalla de inicio o de bloqueo y los recordatorios dependen de los permisos de iOS y del comportamiento del sistema.
+
+## 7. Su contenido
+
+Si crea colecciones personales, listas o elementos guardados, usted sigue siendo responsable de ese contenido. No reclamamos la propiedad de su contenido personal guardado en su dispositivo.
+
+## 8. Propiedad intelectual
+
+El nombre de la App, el diseño, la marca, el software, los gráficos y los materiales originales son propiedad de Peter Švorc o están licenciados a su favor.
+
+Las citas históricas y los materiales relacionados siguen sujetos a sus respectivos derechos y fuentes.
+
+## 9. Privacidad
+
+Cómo tratamos la información se describe en nuestra Política de privacidad.
+
+## 10. Servicios de terceros
+
+Utilizamos Apple (App Store, facturación, servicios del dispositivo) y podemos utilizar proveedores de infraestructura para entregar o actualizar el catálogo de citas.
+
+## 11. Disponibilidad
+
+Nos esforzamos por mantener la App fiable, pero no garantizamos un acceso ininterrumpido ni libre de errores.
+
+## 12. Exención de responsabilidad y limitación de responsabilidad
+
+La App se proporciona «tal cual» y «según disponibilidad».
+
+Nada de lo dispuesto en estos Términos excluye ni limita los derechos que usted tenga como consumidor conforme a las leyes imperativas de Eslovaquia o de la Unión Europea.
+
+Sin perjuicio de lo anterior, en la máxima medida permitida por la ley, no seremos responsables de daños indirectos, incidentales o consecuentes derivados de su uso de la App.
+
+## 13. Menores
+
+La App no está dirigida a menores de 13 años.
+
+## 14. Cambios
+
+Podemos actualizar estos Términos periódicamente. El uso continuado tras las actualizaciones implica que acepta los Términos actualizados, salvo cuando la ley imperativa exija otra cosa.
+
+## 15. Contacto
+
+Peter Švorc  
+Eslovaquia  
+Correo electrónico: svorc930@gmail.com
+
+## 16. Ley aplicable
+
+Estos Términos se rigen por las leyes de la República Eslovaca. Si es usted consumidor en la UE/EEE, también puede beneficiarse de las protecciones imperativas de su país de residencia.
