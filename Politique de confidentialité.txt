@@ -1,135 +1,156 @@
 # Politique de confidentialité
 
-**Dernière mise à jour : 25 août 2026**
+**Dernière mise à jour : 31 octobre 2026**
 
 **Responsable du traitement :** Peter Švorc, Slovaquie  
 **Application :** Historical Wisdom  
-**Contact :** svorc930@gmail.com
+**Contact :** support@bots5lab.com
 
-La présente Politique de confidentialité explique comment Historical Wisdom (« Application », « nous », « notre » ou « nos ») collecte, utilise, stocke et partage les informations lorsque vous utilisez l’Application.
+La présente Politique de confidentialité explique comment Historical Wisdom (« Application », « nous », « notre » ou « nos ») collecte, utilise, stocke et partage des informations lorsque vous utilisez l’Application.
 
 ## 1. Qui nous sommes
 
 Historical Wisdom est fournie par Peter Švorc, Slovaquie.
 
-Pour toute question ou demande relative à la protection de vos données personnelles, contactez :
+Pour toute question ou demande relative à la confidentialité concernant vos données personnelles, contactez :
 
-**E-mail :** svorc930@gmail.com
+**E-mail :** support@bots5lab.com
 
-Lorsque le Règlement général sur la protection des données (RGPD) s’applique, Peter Švorc est le responsable du traitement des données personnelles traitées dans le cadre de l’Application.
+Lorsque le Règlement général sur la protection des données (RGPD) s’applique, Peter Švorc est le responsable du traitement des données personnelles traitées en lien avec l’Application.
 
 ## 2. Résumé
 
 * Vous n’avez pas besoin de créer un compte pour utiliser Historical Wisdom.
 * La plupart des préférences de l’Application et du contenu personnel enregistré restent sur votre appareil.
-* Nous ne collectons pas votre adresse e-mail, votre numéro de téléphone, vos informations de carte de paiement ni votre localisation via l’Application.
-* Nous n’envoyons pas votre nom d’affichage à nos prestataires d’analyse.
-* Nous utilisons Mixpanel pour l’analyse produit (résidence des données dans l’UE).
-* Nous utilisons RevenueCat pour gérer le statut d’abonnement et les droits d’accès.
+* Nous ne collectons pas votre adresse e-mail, numéro de téléphone, informations de carte de paiement ni localisation via l’Application.
+* Nous n’envoyons pas votre nom d’affichage à nos prestataires d’analytique.
+* Nous utilisons Supabase pour l’analytique produit et le stockage des retours in-app.
+* Nous utilisons RevenueCat pour gérer le statut des abonnements et les entitlements.
 * Apple traite les achats App Store et les informations de paiement.
-* Nous n’utilisons pas les analyses décrites dans la présente politique pour le suivi publicitaire inter-applications ou inter-services.
-* Vous pouvez demander la suppression des données d’analyse et des données RevenueCat associées à votre installation de l’Application via la fonction **Supprimer mes données** intégrée à l’Application.
+* Nous n’utilisons pas l’analytique décrite dans la présente politique pour le suivi publicitaire inter-applications ou inter-services.
+* Vous pouvez demander la suppression des données d’analytique, de retours et RevenueCat liées à l’installation via la fonction **Supprimer mes données** de l’Application.
 
 ## 3. Informations traitées sur votre appareil
 
-Selon la manière dont vous utilisez l’Application, des informations peuvent être stockées localement sur votre appareil, notamment :
+Selon la façon dont vous utilisez l’Application, des informations peuvent être stockées localement sur votre appareil, notamment :
 
-* le nom d’affichage ;
-* les inspirations, périodes et auteurs sélectionnés ;
-* les citations enregistrées et les listes personnelles ;
-* les séries (streaks) et compteurs ;
-* les préférences de thème et de langue ;
-* les préférences et paramètres de notification ;
-* les préférences de widget.
+* nom d’affichage ;
+* inspirations, périodes et auteurs sélectionnés ;
+* citations enregistrées et listes personnelles ;
+* séries et compteurs ;
+* préférences de thème et de langue ;
+* préférences et paramètres de notifications ;
+* préférences de widgets.
 
-Ces informations sont principalement stockées localement et ne sont pas incluses dans notre analyse produit.
+Ces informations sont principalement stockées localement et ne sont pas incluses dans notre analytique produit.
 
-La suppression de l’Application peut entraîner la suppression des données de l’Application stockées localement, sous réserve du comportement du système d’exploitation d’Apple et de toute sauvegarde que vous auriez effectuée séparément.
+La suppression de l’Application peut supprimer les données de l’Application stockées localement, sous réserve du comportement du système d’exploitation d’Apple et de toute donnée que vous auriez sauvegardée séparément.
 
-## 4. Analyse
+## 4. Analytique
 
-### Mixpanel
+### Analytique Supabase
 
-Nous utilisons Mixpanel, un service d’analyse produit, pour comprendre comment les utilisateurs interagissent avec Historical Wisdom et pour améliorer l’Application. Notre projet Mixpanel est configuré pour une **résidence des données dans l’UE** (les événements sont envoyés vers le point de terminaison de l’API UE de Mixpanel).
+Nous utilisons Supabase, un service de base de données hébergée, pour stocker l’analytique produit afin de comprendre comment les utilisateurs interagissent avec Historical Wisdom et d’améliorer l’Application.
 
-Les informations envoyées à Mixpanel peuvent inclure :
+Les informations envoyées à notre base de données d’analytique peuvent inclure :
 
 * un identifiant utilisateur aléatoire et spécifique à l’Application (`user_id`) ;
 * les lancements de l’Application ;
-* les événements d’intégration (onboarding) et les informations relatives aux étapes d’intégration (y compris un identifiant d’étape tel que `name`, `inspirations` ou `legal` — ceux-ci identifient quel écran d’intégration a été affiché, et non votre nom d’affichage) ;
+* les événements d’onboarding et quels écrans d’onboarding ou de paywall ont été affichés (identifiants d’écran tels que `welcome`, `themes` ou `paywall_plans` — ils identifient des écrans, pas votre nom d’affichage) ;
+* l’affectation à une expérience d’onboarding (par exemple un identifiant d’expérience et une variante telle que `control` ou `challenger_v1`) ;
 * la source d’acquisition sélectionnée par l’utilisateur ;
-* les affichages de l’écran d’achat (paywall) ;
+* les vues de paywall et les événements liés au parcours d’achat (y compris les événements de roue ou d’offre lorsqu’ils sont affichés) ;
 * les tentatives d’achat et les résultats d’achat ;
-* les taps de restauration ;
-* les identifiants de produits pour les abonnements ;
-* si l’intégration a été terminée ;
+* les appuis sur restaurer ;
+* les identifiants de produit pour les abonnements ou les déblocages uniques ;
+* si l’onboarding a été terminé ou si l’utilisateur a atteint l’application principale après l’onboarding ;
 * si Premium est actuellement actif ;
-* les libellés d’Application que nous attachons aux événements, notamment `app` (« Historical Wisdom ») et `platform` (« iOS ») ;
-* les informations relatives à l’Application et à l’appareil fournies par le SDK Mixpanel, telles que la version du système d’exploitation, la version de l’Application, le modèle d’appareil, la taille de l’écran et les informations relatives au SDK/à la bibliothèque.
+* les événements liés à la demande d’avis (par exemple si une demande de note était éligible, affichée ou refusée) ;
+* les libellés d’Application que nous attachons aux événements, notamment `app` (« Historical Wisdom ») et `platform` (« iOS »).
 
-L’Application n’envoie pas à Mixpanel votre nom d’affichage, votre adresse e-mail, votre numéro de téléphone, vos citations enregistrées, votre historique de recherche, vos collections de citations sélectionnées, le contenu des notifications ni votre localisation.
+L’Application n’envoie pas votre nom d’affichage, adresse e-mail, numéro de téléphone, citations enregistrées, historique de recherche, collections de citations sélectionnées, contenu de notifications ni localisation à notre base de données d’analytique.
 
-Nous avons désactivé l’enrichissement géographique basé sur l’adresse IP dans notre configuration d’analyse Mixpanel. Nous n’utilisons pas intentionnellement l’analyse Mixpanel pour déterminer votre ville ou votre localisation précise.
+Nous n’utilisons pas intentionnellement l’analytique pour déterminer votre ville ou votre localisation précise. Nous n’envoyons que les événements personnalisés décrits dans la présente politique.
 
-Les événements automatiques Mixpanel sont désactivés. Nous n’envoyons que les événements personnalisés décrits dans la présente politique.
+### Compteurs agrégés
 
-### Finalités de l’analyse
+Nous pouvons également stocker des compteurs produit anonymes (par exemple des comptes de noms d’événements par version d’application) qui ne sont **pas** liés à votre `user_id`. Ces compteurs agrégés peuvent rester après l’utilisation de **Supprimer mes données**.
 
-Nous utilisons l’analyse pour :
+### Finalités de l’analytique
+
+Nous utilisons l’analytique pour :
 
 * comprendre comment les utilisateurs découvrent et utilisent l’Application ;
-* mesurer l’achèvement de l’intégration ;
-* comprendre l’interaction avec Premium et les écrans d’achat ;
+* mesurer l’achèvement et l’activation de l’onboarding ;
+* comprendre l’interaction avec Premium/paywalls ;
 * mesurer la conversion d’abonnement et l’activité de restauration ;
-* identifier les aspects techniques ou produit à améliorer ;
-* évaluer l’efficacité des sources d’acquisition sélectionnées par les utilisateurs.
+* identifier les domaines techniques ou produit à améliorer ;
+* évaluer l’efficacité des sources d’acquisition et des expériences d’onboarding.
 
-Nous ne vendons pas les données d’analyse.
+Nous ne vendons pas les données d’analytique.
 
-## 5. Abonnements et RevenueCat
+## 5. Retours in-app
 
-Historical Wisdom propose des abonnements auto-renouvelables optionnels via l’App Store d’Apple.
+Historical Wisdom peut vous permettre d’envoyer des retours produit depuis l’Application (par exemple Profil → Retours, ou après le refus d’une demande d’avis) et de voter pour des citations individuelles.
 
-Apple traite la transaction et le paiement App Store. Nous ne recevons ni ne stockons votre numéro complet de carte de paiement ni les autres identifiants de paiement utilisés par Apple pour traiter votre achat.
+Les envois de retours peuvent inclure :
 
-Nous utilisons RevenueCat comme service de gestion des abonnements afin de déterminer le statut d’abonnement et les droits d’accès.
+* un identifiant utilisateur aléatoire et spécifique à l’Application ;
+* la source du retour (par exemple profil ou refus d’avis) ;
+* les puces de sujet ou d’intention sélectionnées ;
+* des notes en texte libre facultatives que vous choisissez d’écrire ;
+* pour les votes de citations : le vote et l’identifiant de citation (ainsi que les identifiants de contenu associés nécessaires pour comprendre le vote) ;
+* la version et le build de l’Application ;
+* la version d’iOS et le modèle d’appareil ;
+* le paramètre de langue ;
+* si Premium est actif.
+
+Nous utilisons ces informations uniquement pour améliorer Historical Wisdom et répondre aux problèmes produit. Nous n’utilisons pas les envois de retours pour le suivi publicitaire.
+
+## 6. Abonnements et RevenueCat
+
+Historical Wisdom peut proposer des abonnements optionnels à renouvellement automatique et/ou un déblocage Lifetime unique via l’App Store d’Apple.
+
+Apple traite la transaction et le paiement App Store. Nous ne recevons ni ne stockons votre numéro complet de carte de paiement ni d’autres identifiants de paiement utilisés par Apple pour traiter votre achat.
+
+Nous utilisons RevenueCat comme service de gestion des abonnements pour déterminer le statut d’abonnement et les entitlements.
 
 RevenueCat peut traiter des informations telles que :
 
 * un identifiant utilisateur RevenueCat anonyme ou spécifique à l’Application ;
-* le statut d’abonnement et des droits d’accès ;
-* les informations relatives aux achats App Store et aux reçus ;
-* les identifiants de produits ;
-* l’éligibilité aux essais ou aux offres de lancement ;
+* le statut d’abonnement et d’entitlement ;
+* des informations liées aux achats et reçus App Store ;
+* les identifiants de produit ;
+* l’éligibilité aux essais ou offres d’introduction ;
 * les informations de restauration ;
-* les informations pertinentes relatives au SDK/à l’appareil ;
+* des informations SDK/appareil pertinentes ;
 * l’attribut de source d’acquisition que nous attribuons lorsque vous fournissez cette information.
 
-RevenueCat est utilisé pour fournir les fonctionnalités d’abonnement et déterminer si l’accès Premium doit être disponible.
+RevenueCat est utilisé pour fournir la fonctionnalité d’abonnement et déterminer si l’accès Premium doit être disponible.
 
-RevenueCat agit en qualité de prestataire de services / sous-traitant pour les données clients que nous lui fournissons, sous réserve des arrangements contractuels et de confidentialité applicables. RevenueCat indique que la suppression des clients via son tableau de bord ou son API peut être utilisée pour satisfaire aux demandes d’effacement au titre du RGPD.
+RevenueCat agit en tant que prestataire de services/sous-traitant pour les données clients que nous lui fournissons, sous réserve des arrangements contractuels et de confidentialité applicables. RevenueCat indique que la suppression client via son tableau de bord ou son API peut être utilisée pour satisfaire les demandes d’effacement RGPD.
 
-## 6. Apple et achats App Store
+## 7. Apple et achats App Store
 
 Apple gère la facturation App Store, le traitement des paiements et la transaction App Store sous-jacente.
 
 Nous ne recevons pas votre numéro de carte de paiement.
 
-Apple peut conserver les informations d’achat et de transaction conformément à ses propres politiques et obligations légales. La suppression des données auprès de Historical Wisdom ou de RevenueCat ne supprime pas les enregistrements de transaction indépendants d’Apple.
+Apple peut conserver les informations d’achat et de transaction conformément à ses propres politiques et obligations légales. La suppression des données de Historical Wisdom ou de RevenueCat ne supprime pas les enregistrements de transaction indépendants d’Apple.
 
-Pour toute information sur le traitement de vos données par Apple, veuillez consulter la documentation de confidentialité applicable d’Apple.
+Pour des informations sur le traitement de vos informations par Apple, veuillez consulter la documentation de confidentialité applicable d’Apple.
 
-## 7. Notifications et widgets
+## 8. Notifications et widgets
 
-Si vous activez les rappels, Historical Wisdom peut planifier des notifications locales sur votre appareil.
+Si vous activez des rappels, Historical Wisdom peut planifier des notifications locales sur votre appareil.
 
-Le contenu des notifications et les informations de planification utilisées par l’Application ne sont pas envoyés à nos prestataires d’analyse en tant que données d’analyse.
+Le contenu des notifications et les informations de planification utilisées par l’Application ne sont pas envoyés à nos prestataires d’analytique en tant que données d’analytique.
 
-Les widgets fonctionnent via le système de widgets d’Apple et peuvent accéder à des informations partagées localement entre l’Application et son extension de widget. Les informations des widgets ne sont pas utilisées comme analyse produit.
+Les widgets fonctionnent via le système de widgets d’Apple et peuvent accéder à des informations partagées localement entre l’Application et son extension de widget. Les informations de widgets ne sont pas utilisées comme analytique produit.
 
-## 8. Informations que nous ne collectons pas intentionnellement à des fins d’analyse
+## 9. Informations que nous ne collectons pas intentionnellement pour l’analytique
 
-Notre analyse produit ne collecte pas intentionnellement :
+Notre analytique produit ne collecte pas intentionnellement :
 
 * les noms d’affichage ;
 * les adresses e-mail ;
@@ -138,134 +159,120 @@ Notre analyse produit ne collecte pas intentionnellement :
 * la localisation approximative ;
 * les citations enregistrées ;
 * les listes personnelles ;
-* les inspirations, périodes ou auteurs sélectionnés ;
+* les inspirations, périodes ou auteurs sélectionnés en tant que champs de profil d’analytique ;
 * l’historique de recherche ;
-* les détails des séries (streaks) ;
-* les préférences de thème ou de langue ;
+* les détails de séries ;
+* les préférences de thème ou de langue en tant que champs de profil d’analytique (la langue peut apparaître dans les envois de retours) ;
 * le contenu des notifications ;
 * le contenu des widgets ;
 * les informations de carte de paiement ;
 * les rapports de plantage via Sentry.
 
-## 9. Comment nous utilisons les informations
+## 10. Comment nous utilisons les informations
 
 Selon les informations concernées et le droit applicable, nous traitons les informations aux fins suivantes :
 
 * fournir et exploiter Historical Wisdom ;
-* fournir les fonctionnalités d’abonnement Premium ;
-* vérifier les droits d’accès liés aux abonnements ;
+* fournir la fonctionnalité d’abonnement Premium ;
+* vérifier les entitlements d’abonnement ;
 * traiter les achats App Store via les systèmes d’Apple ;
-* comprendre et améliorer l’utilisation du produit grâce à l’analyse ;
+* comprendre et améliorer l’usage du produit grâce à l’analytique ;
+* examiner les retours in-app et les votes de citations ;
 * maintenir et améliorer l’Application ;
-* répondre aux demandes relatives à la confidentialité ou au support ;
+* répondre aux demandes de confidentialité ou de support ;
 * respecter les obligations légales ;
 * protéger l’Application et nos intérêts légitimes.
 
-Lorsque le RGPD s’applique, la base juridique peut inclure l’exécution d’un contrat, les intérêts légitimes, le consentement lorsque celui-ci est requis, et le respect des obligations légales.
+Lorsque le RGPD s’applique, la base juridique peut inclure l’exécution d’un contrat, les intérêts légitimes, le consentement le cas échéant, et le respect des obligations légales.
 
-Lorsque le consentement est requis, vous pouvez le retirer via les contrôles de permission pertinents de l’Application ou d’iOS, ou en nous contactant le cas échéant.
+Lorsque le consentement est requis, vous pouvez le retirer via les contrôles d’autorisation pertinents de l’Application ou d’iOS, ou en nous contactant le cas échéant.
 
-## 10. Prestataires de services tiers
+## 11. Prestataires de services tiers
 
-Nous utilisons certains prestataires de services tiers sélectionnés pour exploiter l’Application et fournir ses fonctionnalités.
+Nous utilisons des prestataires de services tiers sélectionnés pour exploiter l’Application et fournir ses fonctionnalités.
 
 Ceux-ci peuvent inclure :
 
 * **Apple** — distribution App Store, achats, facturation, gestion des abonnements et services du système d’exploitation ;
-* **Mixpanel** — analyse produit (résidence des données dans l’UE) ;
-* **RevenueCat** — gestion des abonnements et des droits d’accès ;
-* d’autres prestataires d’infrastructure ou d’hébergement, le cas échéant.
+* **Supabase** — analytique produit et stockage des retours in-app ;
+* **RevenueCat** — gestion des abonnements et entitlements ;
+* des prestataires d’infrastructure tels que Cloudflare pour notre service de suppression, le cas échéant.
 
-Le contenu du catalogue de citations est actuellement fourni avec l’Application. Nous pourrons utiliser des prestataires d’infrastructure à l’avenir si nous introduisons des mises à jour de contenu à distance.
+Le catalogue de citations est actuellement livré avec l’Application. Nous pourrons utiliser des prestataires d’infrastructure à l’avenir si nous introduisons des mises à jour de contenu à distance.
 
-Nous exigeons des prestataires de services qui traitent des informations pour notre compte qu’ils assurent une protection appropriée de ces informations, conformément au droit applicable et à nos accords avec eux.
+Nous exigeons des prestataires qui traitent des informations pour notre compte qu’ils assurent une protection appropriée de ces informations conformément au droit applicable et à nos accords avec eux.
 
 Nous ne vendons pas vos informations personnelles.
 
-## 11. Suppression des données
+## 12. Suppression des données
 
 Vous pouvez demander la suppression des données associées à votre utilisation de Historical Wisdom.
 
-L’Application propose une fonction **Supprimer mes données** sous **Profil → Confidentialité**.
+L’Application fournit une fonction **Supprimer mes données** sous **Profil → Confidentialité**.
 
 Lorsque vous utilisez cette fonction, l’Application capture uniquement les identifiants nécessaires pour identifier les enregistrements concernés :
 
-* le `distinct_id` Mixpanel associé à l’installation ; et
+* le `user_id` d’analytique Wisdom associé à l’installation ; et
 * le `app_user_id` RevenueCat associé à l’installation.
 
 Ces identifiants sont envoyés à notre service sécurisé de suppression uniquement pour traiter la demande de suppression.
 
-### Suppression Mixpanel
+### Ce que nous supprimons
 
-Notre service de suppression soumet une demande de suppression à Mixpanel pour l’identité d’analyse spécifiée.
+Notre service de suppression supprime, pour l’identité spécifiée :
 
-Cette demande couvre le profil Mixpanel associé et les événements d’analyse appartenant à cette identité.
+* les lignes de profil et d’événements d’analytique dans Supabase ;
+* les lignes d’atteinte d’écrans d’onboarding liées à cette identité ;
+* les envois de retours in-app liés à cette identité ;
+* l’enregistrement client RevenueCat associé à cet identifiant (sous réserve du traitement par RevenueCat).
 
-Mixpanel peut nécessiter un délai supplémentaire pour achever la suppression des données d’événements historiques. Le cas échéant, la suppression peut prendre jusqu’à environ 30 jours.
-
-L’Application réinitialise également son identité Mixpanel locale afin que l’identifiant supprimé ne soit plus utilisé pour les analyses ultérieures.
-
-### Suppression RevenueCat
-
-Notre service de suppression demande la suppression de l’enregistrement client RevenueCat spécifié.
-
-Cela supprime les informations client RevenueCat associées à cet identifiant, y compris les attributs pertinents et l’historique d’achats/abonnements stocké par RevenueCat.
-
-L’API actuelle de RevenueCat prend en charge la suppression des clients et peut mettre la suppression en file d’attente pour traitement.
-
-### Réinitialisation de l’identifiant local
-
-Une fois les demandes de suppression soumises avec succès, l’Application supprime l’identifiant d’analyse précédent du stockage local et génère un nouvel identifiant spécifique à l’Application si vous continuez à utiliser l’Application.
-
-Cela empêche que les événements d’analyse ultérieurs soient associés à l’identité d’analyse précédente.
+L’Application fait également tourner son identifiant d’analytique local afin que l’identifiant supprimé ne soit plus utilisé pour l’analytique ultérieure.
 
 ### Ce que la suppression ne fait pas
 
-La suppression de vos données d’analyse Historical Wisdom et de vos données client RevenueCat **ne** résilie **pas** un abonnement Apple actif.
+La suppression de vos données d’analytique, de retours et de client RevenueCat Historical Wisdom **ne** :
 
-Apple continue de gérer un abonnement actif de manière indépendante. La suppression de l’Application ou l’utilisation de **Supprimer mes données** ne suffit pas, à elle seule, à interrompre le renouvellement de l’abonnement.
+* n’annule pas un abonnement Apple actif ;
+* ne supprime pas les enregistrements de transaction App Store indépendants d’Apple ;
+* ne supprime pas les compteurs produit agrégés anonymes qui ne sont pas liés à votre `user_id`.
 
-Vous devez résilier un abonnement actif via le système de gestion des abonnements d’Apple.
+Vous devez annuler un abonnement actif via le système de gestion des abonnements d’Apple.
 
-Si vous continuez à utiliser Historical Wisdom alors qu’un abonnement Apple reste actif, votre droit d’accès Premium peut être restauré et un nouvel enregistrement client RevenueCat peut être créé pour le nouvel identifiant de l’Application. RevenueCat confirme que la suppression d’un client RevenueCat ne résilie pas un abonnement Apple.
+Si vous continuez à utiliser Historical Wisdom alors qu’un abonnement Apple reste actif, votre entitlement Premium peut être restauré et un nouvel enregistrement client RevenueCat peut être créé pour le nouvel identifiant d’application.
 
-Les enregistrements de transaction et les archives juridiques indépendants d’Apple peuvent également être conservés par Apple conformément aux politiques et obligations légales d’Apple.
+## 13. Conservation
 
-## 12. Conservation
-
-Nous ne conservons les informations que pendant la durée raisonnablement nécessaire aux finalités décrites dans la présente Politique de confidentialité, sauf si une durée de conservation plus longue est requise ou autorisée par la loi.
+Nous conservons les informations uniquement aussi longtemps que raisonnablement nécessaire aux fins décrites dans la présente Politique de confidentialité, sauf si une période de conservation plus longue est requise ou autorisée par la loi.
 
 Les données locales de l’Application restent généralement sur votre appareil jusqu’à ce que vous les supprimiez, les modifiiez ou supprimiez l’Application.
 
-Les données d’analyse sont conservées par notre prestataire d’analyse conformément à notre configuration et aux politiques applicables du prestataire. Lorsque vous demandez la suppression via l’Application, nous initions la suppression de l’identité d’analyse associée comme décrit ci-dessus.
+Les données d’analytique et de retours liées à l’identité de votre installation sont supprimées lorsque vous utilisez avec succès **Supprimer mes données**, sous réserve du délai de traitement et de toute information qui doit ou peut légalement être conservée.
 
-Les données client RevenueCat sont supprimées lorsque nous traitons une demande de suppression valide, sous réserve de toute information qui doit ou peut légalement être conservée.
+Les compteurs agrégés anonymes peuvent être conservés comme décrit ci-dessus.
 
 Apple contrôle la conservation de ses propres enregistrements de transaction et de facturation App Store.
 
 Nous pouvons conserver des informations limitées nécessaires pour documenter qu’une demande de suppression a été reçue et traitée, ou lorsque la conservation est requise à des fins juridiques, de sécurité, de prévention de la fraude, comptables ou de règlement des litiges.
 
-## 13. Sécurité
+## 14. Sécurité
 
 Nous utilisons des mesures techniques et organisationnelles raisonnables adaptées à la nature des informations que nous traitons.
 
-Les identifiants d’API Mixpanel et RevenueCat utilisés pour la suppression sont conservés sur notre serveur (Cloudflare Worker), et non dans l’Application Historical Wisdom.
+Les identifiants d’API Supabase et RevenueCat utilisés pour la suppression sont conservés sur notre serveur (Cloudflare Worker), et non comme identifiants publics non restreints dans l’Application Historical Wisdom.
 
-Aucune méthode de transmission ou de stockage ne peut être garantie comme étant totalement sécurisée.
+Aucune méthode de transmission ou de stockage ne peut être garantie comme totalement sécurisée.
 
-## 14. Transferts internationaux de données
+## 15. Transferts internationaux de données
 
-Certains prestataires de services que nous utilisons peuvent traiter des informations dans des pays situés en dehors de l’Espace économique européen.
-
-Notre projet d’analyse Mixpanel est configuré pour une résidence des données dans l’UE.
+Certains prestataires de services que nous utilisons peuvent traiter des informations dans des pays situés hors de l’Espace économique européen.
 
 Lorsque le droit applicable l’exige, nous nous appuyons sur des mécanismes juridiques et des garanties appropriés pour les transferts internationaux de données personnelles.
 
-## 15. Vos droits
+## 16. Vos droits
 
-Lorsque le RGPD ou une autre législation applicable en matière de protection des données s’applique, vous pouvez disposer de droits, notamment :
+Lorsque le RGPD ou une autre loi applicable en matière de protection des données s’applique, vous pouvez disposer de droits comprenant :
 
-* le droit d’accéder à vos données personnelles ;
+* le droit d’accès à vos données personnelles ;
 * le droit de demander la rectification de données inexactes ;
 * le droit de demander la suppression ;
 * le droit de demander la limitation du traitement ;
@@ -273,264 +280,33 @@ Lorsque le RGPD ou une autre législation applicable en matière de protection d
 * le droit à la portabilité des données le cas échéant ;
 * le droit de retirer votre consentement lorsque le traitement est fondé sur le consentement.
 
-Vous pouvez utiliser la fonction **Supprimer mes données** dans l’Application ou nous contacter à l’adresse :
+Vous pouvez utiliser la fonction **Supprimer mes données** dans l’Application ou nous contacter à :
 
-**svorc930@gmail.com**
+**support@bots5lab.com**
 
-Nous pouvons être amenés à vérifier une demande lorsque cela est raisonnablement nécessaire pour protéger les utilisateurs et prévenir les demandes de suppression non autorisées.
+Nous pouvons devoir vérifier une demande lorsque cela est raisonnablement nécessaire pour protéger les utilisateurs et prévenir les demandes de suppression non autorisées.
 
 Vous avez également le droit d’introduire une réclamation auprès de l’autorité de contrôle compétente en matière de protection des données.
 
 Pour la Slovaquie, il s’agit de l’**Office pour la protection des données personnelles de la République slovaque (Úrad na ochranu osobných údajov Slovenskej republiky)**.
 
-## 16. Enfants
+## 17. Enfants
 
-Historical Wisdom ne s’adresse pas aux enfants de moins de 13 ans.
+Historical Wisdom n’est pas destinée aux enfants de moins de 13 ans.
 
 Nous ne collectons pas sciemment d’informations personnelles auprès d’enfants de moins de 13 ans.
 
-Si vous estimez qu’un enfant nous a fourni des informations personnelles, veuillez nous contacter afin que nous puissions prendre les mesures appropriées.
+Si vous pensez qu’un enfant nous a fourni des informations personnelles, veuillez nous contacter afin que nous puissions prendre les mesures appropriées.
 
-## 17. Modifications de la présente Politique de confidentialité
+## 18. Modifications de la présente Politique de confidentialité
 
-Nous pouvons mettre à jour la présente Politique de confidentialité lorsque nos pratiques, nos services ou nos obligations légales évoluent.
+Nous pouvons mettre à jour la présente Politique de confidentialité lorsque nos pratiques, services ou obligations légales changent.
 
-Nous mettrons à jour la date de « Dernière mise à jour » lorsque nous apportons des modifications substantielles.
+Nous mettrons à jour la date « Dernière mise à jour » lorsque nous apportons des modifications substantielles.
 
-## 18. Contact
+## 19. Contact
 
 **Peter Švorc**  
 Slovaquie
 
-**E-mail :** svorc930@gmail.com
-
-
-
-
-
-# Conditions d’utilisation
-
-**Dernière mise à jour : 25 août 2026**
-
-**Fournisseur :** Peter Švorc, Slovaquie  
-**Application :** Historical Wisdom  
-**Contact :** svorc930@gmail.com
-
-Les présentes Conditions d’utilisation (« Conditions ») régissent votre accès à l’application iOS Historical Wisdom (« Application ») et son utilisation.
-
-En téléchargeant ou en utilisant l’Application, vous acceptez les présentes Conditions. Si vous n’acceptez pas ces Conditions, veuillez ne pas utiliser l’Application.
-
-## 1. À propos de Historical Wisdom
-
-Historical Wisdom est une application de réflexion personnelle, d’éducation et d’inspiration proposant des citations historiques, des idées, des thèmes et des contenus associés provenant de personnalités et de périodes historiques notables.
-
-L’Application est destinée à des fins générales d’information, d’éducation, d’inspiration et de développement personnel.
-
-Historical Wisdom ne fournit pas de conseils médicaux, psychologiques, financiers, d’investissement, juridiques ou autres conseils professionnels.
-
-## 2. Éligibilité et utilisation
-
-Vous pouvez utiliser l’Application à des fins personnelles, licites et non commerciales.
-
-Vous vous engagez à ne pas :
-
-* utiliser l’Application en violation des lois ou réglementations applicables ;
-* tenter d’interférer avec l’Application ou ses services, ou de les compromettre ;
-* procéder à de l’ingénierie inverse, décompiler ou modifier l’Application, sauf lorsque une telle activité ne peut légalement être restreinte ;
-* contourner les contrôles d’abonnement, d’essai, de droits d’accès ou d’accès ;
-* abuser des systèmes d’achat, de restauration, de remboursement ou d’abonnement ;
-* copier, reproduire, redistribuer, vendre ou exploiter commercialement l’Application ou son contenu original sans autorisation, sauf lorsque cela est permis par la loi.
-
-## 3. Contenu historique
-
-Historical Wisdom vise à présenter un matériel historique utile et significatif.
-
-Les sources historiques, traductions, interprétations, attributions et versions des citations peuvent différer.
-
-Certaines citations peuvent être :
-
-* traduites d’une autre langue ;
-* abrégées ou éditées pour la présentation ;
-* couramment attribuées à une figure historique ;
-* fondées sur des sources historiques dont l’attribution ou le libellé est contesté.
-
-Nous ne garantissons pas que chaque citation, attribution, traduction, date, interprétation ou affirmation historique soit complète, exacte ou universellement acceptée.
-
-L’Application ne doit pas être considérée comme une référence académique ou historique définitive.
-
-## 4. Abonnements
-
-Historical Wisdom peut proposer des abonnements auto-renouvelables optionnels via l’App Store d’Apple.
-
-Les formules disponibles, prix, devises, périodes de facturation, offres d’essai, offres de lancement et fonctionnalités Premium sont affichés dans l’Application avant l’achat et peuvent varier selon le pays ou la région.
-
-Les formules actuelles peuvent inclure des abonnements hebdomadaires et annuels.
-
-### Paiement
-
-Le paiement est débité de votre identifiant Apple lorsque Apple confirme l’achat.
-
-Nous ne traitons ni ne recevons vos données complètes de carte de paiement.
-
-Les conditions générales applicables d’Apple s’appliquent également aux achats App Store.
-
-### Renouvellement automatique
-
-Sauf résiliation de votre part, un abonnement auto-renouvelable se renouvelle automatiquement à la fin de chaque période d’abonnement.
-
-Votre compte Apple peut être débité pour le renouvellement dans les 24 heures précédant la fin de la période d’abonnement en cours.
-
-Vous pouvez gérer ou résilier votre abonnement via les paramètres de gestion des abonnements d’Apple.
-
-La suppression de Historical Wisdom ne résilie pas un abonnement actif.
-
-Le système d’abonnement d’Apple contrôle la facturation et le renouvellement.
-
-### Essais gratuits et offres de lancement
-
-Le cas échéant, les essais gratuits ou offres de lancement sont soumis aux règles d’éligibilité d’Apple et à l’offre spécifique affichée avant l’achat.
-
-Si vous ne résiliez pas avant la fin d’une période d’essai ou de lancement, l’abonnement peut automatiquement se convertir en abonnement payant conformément aux conditions affichées au moment de l’achat.
-
-### Remboursements
-
-Les remboursements pour les achats App Store sont gérés par Apple conformément aux politiques et procédures applicables d’Apple.
-
-## 5. Accès Premium
-
-Premium peut donner accès à des fonctionnalités et contenus supplémentaires ou étendus, pouvant inclure :
-
-* un accès étendu ou illimité aux citations ;
-* une exploration supplémentaire ;
-* l’enregistrement et les listes ;
-* les widgets et la personnalisation ;
-* les parcours de lecture ;
-* d’autres fonctionnalités Premium introduites dans l’Application.
-
-Les fonctionnalités peuvent évoluer au fil du temps à mesure que Historical Wisdom est mise à jour.
-
-L’accès par abonnement est soumis au statut du droit d’accès App Store correspondant.
-
-## 6. Restauration des achats
-
-Historical Wisdom peut proposer une fonction de restauration des achats.
-
-La restauration des achats ne crée pas un nouvel achat. Elle permet à Apple et aux systèmes de gestion des abonnements de l’Application de déterminer si vous disposez d’un droit d’accès éligible existant.
-
-## 7. Suppression de vos données
-
-Historical Wisdom propose une option **Supprimer mes données**.
-
-L’utilisation de cette fonction supprime ou initie la suppression des données d’analyse et des données client RevenueCat associées à l’installation pertinente de l’Application, comme décrit dans la Politique de confidentialité.
-
-**La suppression de vos données ne résilie pas un abonnement Apple App Store.**
-
-Si vous avez un abonnement actif, vous devez le résilier séparément via le système de gestion des abonnements d’Apple.
-
-Les enregistrements de facturation et de transaction d’Apple sont contrôlés par Apple et ne sont pas supprimés par la fonction de suppression des données de l’Application.
-
-## 8. Contenu personnel
-
-Historical Wisdom peut vous permettre de créer des collections personnelles, des citations enregistrées, des listes ou un contenu similaire.
-
-Ce contenu personnel peut rester stocké localement sur votre appareil et n’est généralement pas transmis à nos prestataires d’analyse.
-
-Vous êtes responsable du contenu que vous enregistrez ou créez au sein de l’Application.
-
-Nous ne revendiquons pas la propriété de votre contenu personnel enregistré.
-
-## 9. Propriété intellectuelle
-
-Le logiciel, l’interface, le design, l’identité de marque, les graphismes, les textes originaux et les autres éléments originaux de Historical Wisdom sont la propriété de Peter Švorc ou sont concédés sous licence à Peter Švorc, sauf indication contraire.
-
-Les citations historiques et autres matériaux historiques peuvent relever du domaine public ou être soumis à des droits appartenant à leurs propriétaires, sources ou concédants respectifs.
-
-Rien dans les présentes Conditions ne vous confère la propriété de l’Application ou de sa propriété intellectuelle.
-
-Vous ne pouvez utiliser l’Application et son contenu que dans les limites autorisées par les présentes Conditions et le droit applicable.
-
-## 10. Services tiers
-
-Historical Wisdom s’appuie sur certains services tiers, qui peuvent inclure :
-
-* les services Apple et App Store ;
-* RevenueCat pour la gestion des abonnements et des droits d’accès ;
-* Mixpanel pour l’analyse produit ;
-* d’autres prestataires d’infrastructure ou d’hébergement, le cas échéant.
-
-Le contenu du catalogue de citations est actuellement fourni avec l’Application. Nous pourrons utiliser des prestataires d’infrastructure à l’avenir si nous introduisons des mises à jour de contenu à distance.
-
-Votre utilisation des services tiers peut également être soumise à leurs conditions et politiques de confidentialité applicables.
-
-Nous ne sommes pas responsables des services tiers dans la mesure permise par le droit applicable.
-
-## 11. Widgets et notifications
-
-Les widgets et les notifications dépendent des fonctionnalités et des autorisations d’iOS.
-
-Nous ne pouvons pas garantir que les notifications ou les widgets apparaîtront, se mettront à jour ou fonctionneront toujours sans interruption, car ils peuvent dépendre du système d’exploitation d’Apple, des paramètres de l’appareil, des autorisations, de la gestion de l’énergie, de la connectivité ou d’autres facteurs indépendants de notre volonté.
-
-## 12. Disponibilité et mises à jour
-
-Nous pouvons modifier, mettre à jour, suspendre ou interrompre des fonctionnalités de Historical Wisdom de temps à autre.
-
-Nous visons à fournir un accès fiable, mais nous ne garantissons pas que l’Application sera toujours disponible, ininterrompue ou exempte d’erreurs.
-
-Des mises à jour peuvent être nécessaires pour continuer à utiliser certaines fonctionnalités.
-
-## 13. Avertissement
-
-Dans toute la mesure permise par le droit applicable, Historical Wisdom est fournie « en l’état » et « selon disponibilité ».
-
-Nous ne garantissons pas que :
-
-* l’Application sera toujours disponible ;
-* l’Application sera exempte d’erreurs ;
-* les informations historiques seront toujours exactes ou complètes ;
-* toutes les citations auront une attribution universellement acceptée ;
-* toutes les fonctionnalités resteront disponibles indéfiniment.
-
-Rien dans les présentes Conditions n’exclut ni ne limite les protections obligatoires des consommateurs ou les autres droits qui ne peuvent légalement être exclus.
-
-## 14. Limitation de responsabilité
-
-Dans toute la mesure permise par le droit applicable, Peter Švorc ne sera pas responsable des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs découlant de votre utilisation de l’Application.
-
-Rien dans les présentes Conditions ne limite la responsabilité lorsque une telle limitation est interdite par le droit applicable, y compris les droits obligatoires des consommateurs.
-
-## 15. Droits des consommateurs
-
-Si vous êtes un consommateur dans l’Union européenne ou l’Espace économique européen, vous conservez tous les droits et protections obligatoires qui vous sont conférés par les lois applicables en matière de consommation et autres.
-
-Rien dans les présentes Conditions n’a pour objet de supprimer ou de restreindre des droits auxquels il ne peut légalement être renoncé.
-
-## 16. Enfants
-
-Historical Wisdom ne s’adresse pas aux enfants de moins de 13 ans.
-
-## 17. Confidentialité
-
-Notre collecte et notre traitement des informations sont décrits dans notre Politique de confidentialité.
-
-La Politique de confidentialité fait partie du cadre régissant votre utilisation de l’Application en ce qui concerne le traitement des données personnelles.
-
-## 18. Modifications des présentes Conditions
-
-Nous pouvons mettre à jour les présentes Conditions lorsque l’Application, nos services ou les exigences légales applicables évoluent.
-
-Lorsque nous apportons des modifications substantielles, nous mettrons à jour la date de « Dernière mise à jour » et, le cas échéant, fournirons une notification supplémentaire.
-
-Votre utilisation continue de l’Application après l’entrée en vigueur d’une version mise à jour constitue une acceptation des Conditions mises à jour, dans la mesure permise par le droit applicable.
-
-## 19. Droit applicable
-
-Les présentes Conditions sont régies par les lois de la République slovaque, sans préjudice des protections obligatoires des consommateurs applicables dans votre pays de résidence.
-
-Si vous êtes un consommateur dans l’Union européenne ou l’EEE, vous pouvez également bénéficier des droits et protections obligatoires prévus par les lois qui vous sont applicables.
-
-## 20. Contact
-
-**Peter Švorc**  
-Slovaquie
-
-**E-mail :** svorc930@gmail.com
+**E-mail :** support@bots5lab.com

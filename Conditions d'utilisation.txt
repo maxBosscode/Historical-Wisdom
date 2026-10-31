@@ -1,0 +1,234 @@
+# Conditions d’utilisation
+
+**Dernière mise à jour : 31 octobre 2026**
+
+**Prestataire :** Peter Švorc, Slovaquie  
+**Application :** Historical Wisdom  
+**Contact :** support@bots5lab.com
+
+Les présentes Conditions d’utilisation (« Conditions ») régissent votre accès à l’application iOS Historical Wisdom (« Application ») et son utilisation.
+
+En téléchargeant ou en utilisant l’Application, vous acceptez les présentes Conditions. Si vous n’acceptez pas ces Conditions, veuillez ne pas utiliser l’Application.
+
+## 1. À propos de Historical Wisdom
+
+Historical Wisdom est une application de réflexion personnelle, d’éducation et d’inspiration proposant des citations historiques, des idées, des thèmes et du contenu associé issus de figures et de périodes historiques remarquables.
+
+L’Application est destinée à des fins générales d’information, d’éducation, d’inspiration et de développement personnel.
+
+Historical Wisdom ne fournit pas de conseils professionnels médicaux, psychologiques, financiers, d’investissement, juridiques ou autres conseils professionnels.
+
+## 2. Éligibilité et utilisation
+
+Vous pouvez utiliser l’Application à des fins personnelles, licites et non commerciales.
+
+Vous vous engagez à ne pas :
+
+* utiliser l’Application en violation des lois ou réglementations applicables ;
+* tenter d’interférer avec l’Application ou ses services, ou de les compromettre ;
+* procéder à de l’ingénierie inverse, décompiler ou modifier l’Application, sauf lorsque cette activité ne peut légalement être restreinte ;
+* contourner les contrôles d’abonnement, d’essai, d’entitlement ou d’accès ;
+* abuser des systèmes d’achat, de restauration, de remboursement ou d’abonnement ;
+* copier, reproduire, redistribuer, vendre ou exploiter commercialement l’Application ou son contenu original sans autorisation, sauf lorsque la loi le permet.
+
+## 3. Contenu historique
+
+Historical Wisdom vise à présenter un matériel historique utile et significatif.
+
+Les sources historiques, traductions, interprétations, attributions et versions des citations peuvent différer.
+
+Certaines citations peuvent être :
+
+* traduites d’une autre langue ;
+* raccourcies ou éditées pour la présentation ;
+* couramment attribuées à une figure historique ;
+* fondées sur des sources historiques dont l’attribution ou le libellé est contesté.
+
+Nous ne garantissons pas que chaque citation, attribution, traduction, date, interprétation ou affirmation historique soit complète, exacte ou universellement acceptée.
+
+L’Application ne doit pas être traitée comme une référence académique ou historique définitive.
+
+## 4. Abonnements et déblocages uniques
+
+Historical Wisdom peut proposer des abonnements optionnels à renouvellement automatique et/ou un déblocage Lifetime unique via l’App Store d’Apple.
+
+Les formules, prix, devises, périodes de facturation, offres d’essai, offres d’introduction et fonctionnalités Premium disponibles sont affichés dans l’Application avant l’achat et peuvent varier selon le pays ou la région.
+
+Les offres actuelles peuvent inclure :
+
+* un abonnement à renouvellement automatique **hebdomadaire** ;
+* un abonnement à renouvellement automatique **annuel** ;
+* un déblocage **Lifetime** unique (non consommable).
+
+Les titres, durées et prix exacts affichés dans l’App Store et dans l’Application au moment de l’achat font foi.
+
+### Paiement
+
+Le paiement est facturé sur votre identifiant Apple lorsque Apple confirme l’achat.
+
+Nous ne traitons ni ne recevons vos données complètes de carte de paiement.
+
+Les conditions générales applicables d’Apple s’appliquent également aux achats App Store.
+
+### Renouvellement automatique (abonnements)
+
+Sauf résiliation de votre part, un abonnement à renouvellement automatique se renouvelle automatiquement à la fin de chaque période d’abonnement.
+
+Votre compte Apple peut être débité pour le renouvellement dans les 24 heures précédant la fin de la période d’abonnement en cours.
+
+Vous pouvez gérer ou résilier votre abonnement via les réglages de gestion des abonnements d’Apple.
+
+La suppression de Historical Wisdom n’annule pas un abonnement actif.
+
+Le système d’abonnement d’Apple contrôle la facturation et le renouvellement.
+
+Les déblocages Lifetime sont des achats uniques et ne se renouvellent pas automatiquement.
+
+### Essais gratuits et offres d’introduction
+
+Lorsqu’ils sont disponibles, les essais gratuits ou offres d’introduction sont soumis aux règles d’éligibilité d’Apple ainsi qu’à la durée et au prix spécifiques de l’offre affichés avant l’achat.
+
+Si vous ne résiliez pas avant la fin d’une période d’essai ou d’introduction, l’abonnement peut se convertir automatiquement en abonnement payant conformément aux conditions affichées au moment de l’achat.
+
+### Remboursements
+
+Les remboursements des achats App Store sont traités par Apple conformément aux politiques et procédures applicables d’Apple.
+
+## 5. Accès Premium
+
+Premium peut fournir un accès à des fonctionnalités et contenus supplémentaires ou élargis, qui peuvent inclure :
+
+* un accès élargi ou illimité aux citations ;
+* une exploration supplémentaire ;
+* l’enregistrement et les listes au-delà des limites gratuites ;
+* des widgets et une personnalisation au-delà des limites gratuites ;
+* des parcours de lecture ;
+* d’autres fonctionnalités Premium introduites dans l’Application.
+
+Certaines fonctionnalités peuvent rester disponibles avec des limites gratuites. Les fonctionnalités peuvent évoluer au fil du temps à mesure que Historical Wisdom est mise à jour.
+
+L’accès par abonnement ou Lifetime est soumis au statut de l’entitlement App Store correspondant.
+
+## 6. Restauration des achats
+
+Historical Wisdom peut fournir une fonction de restauration des achats.
+
+La restauration des achats ne crée pas un nouvel achat. Elle permet à Apple et aux systèmes de gestion des abonnements de l’Application de déterminer si vous disposez d’un entitlement éligible existant.
+
+## 7. Suppression de vos données
+
+Historical Wisdom fournit une option **Supprimer mes données**.
+
+L’utilisation de cette fonction supprime ou initie la suppression des données d’analytique, des retours in-app et des données client RevenueCat associées à l’installation concernée de l’Application, comme décrit dans la Politique de confidentialité.
+
+**La suppression de vos données n’annule pas un abonnement Apple App Store.**
+
+Si vous avez un abonnement actif, vous devez l’annuler séparément via le système de gestion des abonnements d’Apple.
+
+Les enregistrements de facturation et de transaction d’Apple sont contrôlés par Apple et ne sont pas supprimés par la fonction de suppression des données de l’Application.
+
+## 8. Contenu personnel
+
+Historical Wisdom peut vous permettre de créer des collections personnelles, des citations enregistrées, des listes ou un contenu similaire.
+
+Ce contenu personnel peut rester stocké localement sur votre appareil et n’est généralement pas transmis à nos prestataires d’analytique.
+
+Vous êtes responsable du contenu que vous enregistrez ou créez dans l’Application.
+
+Nous ne revendiquons pas la propriété de votre contenu personnel enregistré.
+
+## 9. Propriété intellectuelle
+
+Les logiciels, l’interface, le design, l’identité de marque, les graphismes, les textes originaux et autres matériaux originaux de Historical Wisdom appartiennent à Peter Švorc ou lui sont concédés sous licence, sauf indication contraire.
+
+Les citations historiques et autres matériaux historiques peuvent relever du domaine public ou être soumis aux droits de leurs propriétaires, sources ou concédants respectifs.
+
+Rien dans les présentes Conditions ne vous confère la propriété de l’Application ou de sa propriété intellectuelle.
+
+Vous ne pouvez utiliser l’Application et son contenu que dans la mesure permise par les présentes Conditions et le droit applicable.
+
+## 10. Services tiers
+
+Historical Wisdom s’appuie sur certains services tiers, qui peuvent inclure :
+
+* les services Apple et App Store ;
+* RevenueCat pour la gestion des abonnements et entitlements ;
+* Supabase pour l’analytique produit et le stockage des retours in-app ;
+* d’autres prestataires d’infrastructure ou d’hébergement, le cas échéant.
+
+Le catalogue de citations est actuellement livré avec l’Application. Nous pourrons utiliser des prestataires d’infrastructure à l’avenir si nous introduisons des mises à jour de contenu à distance.
+
+Votre utilisation des services tiers peut également être soumise à leurs conditions et politiques de confidentialité applicables.
+
+Nous ne sommes pas responsables des services tiers dans la mesure permise par le droit applicable.
+
+## 11. Widgets et notifications
+
+Les widgets et notifications dépendent des fonctionnalités et autorisations d’iOS.
+
+Nous ne pouvons pas garantir que les notifications ou widgets apparaîtront, se mettront à jour ou fonctionneront toujours sans interruption, car ils peuvent dépendre du système d’exploitation d’Apple, des réglages de l’appareil, des autorisations, de la gestion de l’énergie, de la connectivité ou d’autres facteurs hors de notre contrôle.
+
+## 12. Disponibilité et mises à jour
+
+Nous pouvons modifier, mettre à jour, suspendre ou interrompre des fonctionnalités de Historical Wisdom de temps à autre.
+
+Nous visons un accès fiable, mais ne garantissons pas que l’Application sera toujours disponible, ininterrompue ou exempte d’erreurs.
+
+Des mises à jour peuvent être nécessaires pour continuer à utiliser certaines fonctionnalités.
+
+## 13. Avertissement
+
+Dans toute la mesure permise par le droit applicable, Historical Wisdom est fournie « en l’état » et « selon disponibilité ».
+
+Nous ne garantissons pas que :
+
+* l’Application sera toujours disponible ;
+* l’Application sera exempte d’erreurs ;
+* les informations historiques seront toujours exactes ou complètes ;
+* toutes les citations auront une attribution universellement acceptée ;
+* toutes les fonctionnalités resteront disponibles indéfiniment.
+
+Rien dans les présentes Conditions n’exclut ni ne limite les protections obligatoires des consommateurs ou d’autres droits qui ne peuvent légalement être exclus.
+
+## 14. Limitation de responsabilité
+
+Dans toute la mesure permise par le droit applicable, Peter Švorc ne sera pas responsable des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs découlant de votre utilisation de l’Application.
+
+Rien dans les présentes Conditions ne limite la responsabilité lorsque une telle limitation est interdite par le droit applicable, y compris les droits obligatoires des consommateurs.
+
+## 15. Droits des consommateurs
+
+Si vous êtes un consommateur dans l’Union européenne ou dans l’Espace économique européen, vous conservez tous les droits et protections obligatoires qui vous sont conférés par les lois applicables en matière de consommation et autres.
+
+Rien dans les présentes Conditions n’est destiné à supprimer ou restreindre des droits auxquels il ne peut légalement être renoncé.
+
+## 16. Enfants
+
+Historical Wisdom n’est pas destinée aux enfants de moins de 13 ans.
+
+## 17. Confidentialité
+
+Notre collecte et notre traitement des informations sont décrits dans notre Politique de confidentialité.
+
+La Politique de confidentialité fait partie du cadre régissant votre utilisation de l’Application en ce qui concerne le traitement des données personnelles.
+
+## 18. Modifications des présentes Conditions
+
+Nous pouvons mettre à jour les présentes Conditions lorsque l’Application, nos services ou les exigences légales applicables changent.
+
+Lorsque nous apportons des modifications substantielles, nous mettrons à jour la date « Dernière mise à jour » et, le cas échéant, fournirons un avis supplémentaire.
+
+Votre utilisation continue de l’Application après l’entrée en vigueur d’une version mise à jour constitue l’acceptation des Conditions mises à jour dans la mesure permise par le droit applicable.
+
+## 19. Droit applicable
+
+Les présentes Conditions sont régies par les lois de la République slovaque, sans préjudice des protections obligatoires des consommateurs applicables dans votre pays de résidence.
+
+Si vous êtes un consommateur dans l’Union européenne ou dans l’EEE, vous pouvez également bénéficier de droits et protections obligatoires en vertu des lois qui vous sont applicables.
+
+## 20. Contact
+
+**Peter Švorc**  
+Slovaquie
+
+**E-mail :** support@bots5lab.com
