@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Last updated: 25 August 2026**
+**Last updated: 31 October 2026**
 
 **Controller:** Peter Švorc, Slovakia  
 **App:** Historical Wisdom  
-**Contact:** svorc930@gmail.com
+**Contact:** support@bots5lab.com
 
 This Privacy Policy explains how Historical Wisdom ("App", "we", "us", or "our") collects, uses, stores, and shares information when you use the App.
 
@@ -14,7 +14,7 @@ Historical Wisdom is provided by Peter Švorc, Slovakia.
 
 For privacy questions or requests concerning your personal data, contact:
 
-**Email:** svorc930@gmail.com
+**Email:** support@bots5lab.com
 
 Where applicable under the General Data Protection Regulation (GDPR), Peter Švorc is the controller of personal data processed in connection with the App.
 
@@ -24,11 +24,11 @@ Where applicable under the General Data Protection Regulation (GDPR), Peter Švo
 * Most App preferences and personal saved content remain on your device.
 * We do not collect your email address, phone number, payment card information, or location through the App.
 * We do not send your display name to our analytics providers.
-* We use Mixpanel for product analytics (EU data residency).
+* We use Supabase for product analytics and in-app feedback storage.
 * We use RevenueCat to manage subscription status and entitlements.
 * Apple processes App Store purchases and payment information.
 * We do not use the analytics described in this policy for cross-app or cross-service advertising tracking.
-* You can request deletion of analytics and RevenueCat data associated with your App installation using the in-App **Delete My Data** function.
+* You can request deletion of installation-linked analytics, feedback, and RevenueCat data using the in-App **Delete My Data** function.
 
 ## 3. Information processed on your device
 
@@ -48,47 +48,68 @@ Deleting the App may remove locally stored App data, subject to Apple's operatin
 
 ## 4. Analytics
 
-### Mixpanel
+### Supabase analytics
 
-We use Mixpanel, a product analytics service, to understand how users interact with Historical Wisdom and to improve the App. Our Mixpanel project is configured for **EU data residency** (events are sent to Mixpanel’s EU API endpoint).
+We use Supabase, a hosted database service, to store product analytics so we can understand how users interact with Historical Wisdom and improve the App.
 
-The information sent to Mixpanel may include:
+The information sent to our analytics database may include:
 
 * a random, app-specific user identifier (`user_id`);
 * App launches;
-* onboarding events and onboarding step information (including a step identifier such as `name`, `inspirations`, or `legal` — these identify which onboarding screen was shown, not your display name);
+* onboarding events and which onboarding or paywall screens were shown (screen identifiers such as `welcome`, `themes`, or `paywall_plans` — these identify screens, not your display name);
+* onboarding experiment assignment (for example an experiment id and variant such as `control` or `challenger_v1`);
 * the acquisition source selected by the user;
-* paywall views;
+* paywall views and related purchase-flow events (including spin-wheel or offer-related events where shown);
 * purchase attempts and purchase results;
 * restore taps;
-* product identifiers for subscriptions;
-* whether onboarding has been completed;
+* product identifiers for subscriptions or one-time unlocks;
+* whether onboarding has been completed or the user has reached the main app after onboarding;
 * whether Premium is currently active;
-* App labels we attach to events, including `app` (“Historical Wisdom”) and `platform` (“iOS”);
-* App and device information supplied by the Mixpanel SDK, such as operating-system version, App version, device model, screen size, and SDK/library information.
+* review-prompt related events (for example whether a rating prompt was eligible, shown, or declined);
+* App labels we attach to events, including `app` (“Historical Wisdom”) and `platform` (“iOS”).
 
-The App does not send your display name, email address, phone number, saved quotes, search history, selected quote collections, notification content, or location to Mixpanel.
+The App does not send your display name, email address, phone number, saved quotes, search history, selected quote collections, notification content, or location to our analytics database.
 
-We have disabled IP-based geographic enrichment for our Mixpanel analytics configuration. We do not intentionally use Mixpanel analytics to determine your city or precise location.
+We do not intentionally use analytics to determine your city or precise location. We only send the custom events described in this policy.
 
-Mixpanel automatic events are disabled. We only send the custom events described in this policy.
+### Aggregate counters
+
+We may also store anonymous product counters (for example counts of event names by app version) that are **not** tied to your `user_id`. Those aggregate counters may remain after you use **Delete My Data**.
 
 ### Analytics purposes
 
 We use analytics to:
 
 * understand how users discover and use the App;
-* measure onboarding completion;
+* measure onboarding completion and activation;
 * understand interaction with Premium/paywalls;
 * measure subscription conversion and restore activity;
 * identify technical or product areas that should be improved;
-* evaluate the effectiveness of acquisition sources selected by users.
+* evaluate the effectiveness of acquisition sources and onboarding experiments.
 
 We do not sell analytics data.
 
-## 5. Subscriptions and RevenueCat
+## 5. In-app feedback
 
-Historical Wisdom offers optional auto-renewable subscriptions through Apple's App Store.
+Historical Wisdom may let you send product feedback from inside the App (for example Profile → Feedback, or after declining a rating prompt) and may let you vote on individual quotes.
+
+Feedback submissions may include:
+
+* a random, app-specific user identifier;
+* feedback source (for example profile or review decline);
+* selected topic or intent chips;
+* optional free-text notes you choose to write;
+* for quote votes: the vote and quote identifier (and related content identifiers needed to understand the vote);
+* app version and build;
+* iOS version and device model;
+* language setting;
+* whether Premium is active.
+
+We use this information only to improve Historical Wisdom and respond to product issues. We do not use feedback submissions for advertising tracking.
+
+## 6. Subscriptions and RevenueCat
+
+Historical Wisdom may offer optional auto-renewable subscriptions and/or a one-time Lifetime unlock through Apple's App Store.
 
 Apple processes the App Store transaction and payment. We do not receive or store your full payment card number or other payment credentials used by Apple to process your purchase.
 
@@ -109,7 +130,7 @@ RevenueCat is used to provide subscription functionality and determine whether P
 
 RevenueCat acts as a service provider/processor for customer data we provide to it, subject to the applicable contractual and privacy arrangements. RevenueCat states that customer deletion through its dashboard or API can be used to satisfy GDPR erasure requests.
 
-## 6. Apple and App Store purchases
+## 7. Apple and App Store purchases
 
 Apple handles App Store billing, payment processing, and the underlying App Store transaction.
 
@@ -119,7 +140,7 @@ Apple may retain purchase and transaction information according to Apple's own p
 
 For information about Apple's handling of your information, please refer to Apple's applicable privacy documentation.
 
-## 7. Notifications and widgets
+## 8. Notifications and widgets
 
 If you enable reminders, Historical Wisdom may schedule local notifications on your device.
 
@@ -127,7 +148,7 @@ Notification content and scheduling information used by the App are not sent to 
 
 Widgets operate through Apple's widget system and may access information shared locally between the App and its widget extension. Widget information is not used as product analytics.
 
-## 8. Information we do not intentionally collect for analytics
+## 9. Information we do not intentionally collect for analytics
 
 Our product analytics does not intentionally collect:
 
@@ -138,16 +159,16 @@ Our product analytics does not intentionally collect:
 * coarse location;
 * saved quotes;
 * personal lists;
-* selected inspirations, periods, or authors;
+* selected inspirations, periods, or authors as analytics profile fields;
 * search history;
 * streak details;
-* theme or language preferences;
+* theme or language preferences as analytics profile fields (language may appear on feedback submissions);
 * notification content;
 * widget content;
 * payment card information;
 * crash reports through Sentry.
 
-## 9. How we use information
+## 10. How we use information
 
 Depending on the information involved and the applicable law, we process information for the following purposes:
 
@@ -156,6 +177,7 @@ Depending on the information involved and the applicable law, we process informa
 * verifying subscription entitlements;
 * processing App Store purchases through Apple's systems;
 * understanding and improving product usage through analytics;
+* reviewing in-app feedback and quote votes;
 * maintaining and improving the App;
 * responding to privacy or support requests;
 * complying with legal obligations;
@@ -165,16 +187,16 @@ Where GDPR applies, the legal basis may include performance of a contract, legit
 
 Where consent is required, you may withdraw it through the relevant App or iOS permission controls, or by contacting us where applicable.
 
-## 10. Third-party service providers
+## 11. Third-party service providers
 
 We use selected third-party service providers to operate the App and provide its functionality.
 
 These may include:
 
 * **Apple** — App Store distribution, purchases, billing, subscription management, and operating-system services;
-* **Mixpanel** — product analytics (EU data residency);
+* **Supabase** — product analytics and in-app feedback storage;
 * **RevenueCat** — subscription and entitlement management;
-* other infrastructure or hosting providers, where applicable.
+* infrastructure providers such as Cloudflare for our deletion service, where applicable.
 
 Quote catalog content is currently shipped with the App. We may use infrastructure providers in the future if we introduce remote content updates.
 
@@ -182,7 +204,7 @@ We require service providers that process information on our behalf to provide a
 
 We do not sell your personal information.
 
-## 11. Data deletion
+## 12. Data deletion
 
 You can request deletion of data associated with your use of Historical Wisdom.
 
@@ -190,78 +212,63 @@ The App provides a **Delete My Data** function under **Profile → Privacy**.
 
 When you use this function, the App captures only the identifiers necessary to identify the relevant records:
 
-* the Mixpanel `distinct_id` associated with the installation; and
+* the Wisdom analytics `user_id` associated with the installation; and
 * the RevenueCat `app_user_id` associated with the installation.
 
 These identifiers are sent to our secure deletion service solely to process the deletion request.
 
-### Mixpanel deletion
+### What we delete
 
-Our deletion service submits a deletion request to Mixpanel for the specified analytics identity.
+Our deletion service deletes, for the specified identity:
 
-This request covers the associated Mixpanel profile and analytics events belonging to that identity.
+* analytics profile and event rows in Supabase;
+* onboarding screen-reach rows linked to that identity;
+* in-app feedback submissions linked to that identity;
+* the RevenueCat customer record associated with that identifier (subject to RevenueCat processing).
 
-Mixpanel may require additional time to complete deletion of historical event data. Where applicable, deletion may take up to approximately 30 days to complete.
-
-The App also resets its local Mixpanel identity so that the deleted identifier is no longer used for subsequent analytics.
-
-### RevenueCat deletion
-
-Our deletion service requests deletion of the specified RevenueCat customer record.
-
-This removes the RevenueCat customer information associated with that identifier, including relevant attributes and purchase/subscription history stored by RevenueCat.
-
-RevenueCat's current API supports customer deletion and may queue the deletion for processing.
-
-### Local identifier reset
-
-After the deletion requests have been successfully submitted, the App removes the previous analytics identifier from local storage and generates a new app-specific identifier if you continue using the App.
-
-This prevents subsequent analytics events from being associated with the previous analytics identity.
+The App also rotates its local analytics identifier so that the deleted identifier is no longer used for subsequent analytics.
 
 ### What deletion does not do
 
-Deleting your Historical Wisdom analytics and RevenueCat customer data does **not** cancel an active Apple subscription.
+Deleting your Historical Wisdom analytics, feedback, and RevenueCat customer data does **not**:
 
-Apple continues to manage an active subscription independently. Deleting the App or using **Delete My Data** does not by itself stop subscription renewal.
+* cancel an active Apple subscription;
+* delete Apple's independent App Store transaction records;
+* delete anonymous aggregate product counters that are not tied to your `user_id`.
 
 You must cancel an active subscription through Apple's subscription-management system.
 
-If you continue using Historical Wisdom while an Apple subscription remains active, your Premium entitlement may be restored and a new RevenueCat customer record may be created for the new app identifier. RevenueCat confirms that deleting a RevenueCat customer does not cancel an Apple subscription.
+If you continue using Historical Wisdom while an Apple subscription remains active, your Premium entitlement may be restored and a new RevenueCat customer record may be created for the new app identifier.
 
-Apple's independent transaction and legal records may also be retained by Apple according to Apple's policies and legal obligations.
-
-## 12. Retention
+## 13. Retention
 
 We retain information only for as long as reasonably necessary for the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law.
 
 Local App data generally remains on your device until you remove it, change it, or delete the App.
 
-Analytics data is retained by our analytics provider according to our configuration and the provider's applicable policies. When you request deletion through the App, we initiate deletion of the associated analytics identity as described above.
+Analytics and feedback data linked to your installation identity are deleted when you successfully use **Delete My Data**, subject to processing time and any information that must or may lawfully be retained.
 
-RevenueCat customer data is deleted when we process a valid deletion request, subject to any information that must or may lawfully be retained.
+Anonymous aggregate counters may be retained as described above.
 
 Apple controls retention of its own App Store transaction and billing records.
 
 We may retain limited information necessary to document that a deletion request was received and processed, or where retention is required for legal, security, fraud-prevention, accounting, or dispute-resolution purposes.
 
-## 13. Security
+## 14. Security
 
 We use reasonable technical and organizational measures appropriate to the nature of the information we process.
 
-Mixpanel and RevenueCat API credentials used for deletion are kept on our server (Cloudflare Worker), not in the Historical Wisdom App.
+Supabase and RevenueCat API credentials used for deletion are kept on our server (Cloudflare Worker), not as unrestricted public credentials in the Historical Wisdom App.
 
 No method of transmission or storage can be guaranteed to be completely secure.
 
-## 14. International data transfers
+## 15. International data transfers
 
 Some service providers we use may process information in countries outside the European Economic Area.
 
-Our Mixpanel analytics project is configured for EU data residency.
-
 Where required by applicable law, we rely on appropriate legal mechanisms and safeguards for international transfers of personal data.
 
-## 15. Your rights
+## 16. Your rights
 
 Where GDPR or other applicable data-protection law applies, you may have rights including:
 
@@ -275,7 +282,7 @@ Where GDPR or other applicable data-protection law applies, you may have rights 
 
 You can use the **Delete My Data** function in the App or contact us at:
 
-**svorc930@gmail.com**
+**support@bots5lab.com**
 
 We may need to verify a request where reasonably necessary to protect users and prevent unauthorized deletion requests.
 
@@ -283,7 +290,7 @@ You also have the right to lodge a complaint with the competent data-protection 
 
 For Slovakia, this is the **Office for Personal Data Protection of the Slovak Republic (Úrad na ochranu osobných údajov Slovenskej republiky)**.
 
-## 16. Children
+## 17. Children
 
 Historical Wisdom is not directed at children under 13.
 
@@ -291,246 +298,15 @@ We do not knowingly collect personal information from children under 13.
 
 If you believe a child has provided personal information to us, please contact us so that we can take appropriate action.
 
-## 17. Changes to this Privacy Policy
+## 18. Changes to this Privacy Policy
 
 We may update this Privacy Policy when our practices, services, or legal obligations change.
 
 We will update the "Last updated" date when we make material changes.
 
-## 18. Contact
+## 19. Contact
 
 **Peter Švorc**  
 Slovakia
 
-**Email:** svorc930@gmail.com
-
-
-
-
-
-# Terms of Service
-
-**Last updated: 25 August 2026**
-
-**Provider:** Peter Švorc, Slovakia  
-**App:** Historical Wisdom  
-**Contact:** svorc930@gmail.com
-
-These Terms of Service ("Terms") govern your access to and use of the Historical Wisdom iOS application ("App").
-
-By downloading or using the App, you agree to these Terms. If you do not agree with these Terms, please do not use the App.
-
-## 1. About Historical Wisdom
-
-Historical Wisdom is a personal reflection, education, and inspiration application providing historical quotes, ideas, themes, and related content from notable historical figures and periods.
-
-The App is intended for general informational, educational, inspirational, and personal-development purposes.
-
-Historical Wisdom does not provide professional medical, psychological, financial, investment, legal, or other professional advice.
-
-## 2. Eligibility and use
-
-You may use the App for personal, lawful, non-commercial purposes.
-
-You agree not to:
-
-* use the App in violation of applicable laws or regulations;
-* attempt to interfere with or compromise the App or its services;
-* reverse engineer, decompile, or modify the App except where such activity cannot legally be restricted;
-* circumvent subscription, trial, entitlement, or access controls;
-* abuse purchase, restore, refund, or subscription systems;
-* copy, reproduce, redistribute, sell, or commercially exploit the App or its original content without authorization, except where permitted by law.
-
-## 3. Historical content
-
-Historical Wisdom aims to present useful and meaningful historical material.
-
-Historical sources, translations, interpretations, attributions, and versions of quotations can differ.
-
-Some quotations may be:
-
-* translated from another language;
-* shortened or edited for presentation;
-* commonly attributed to a historical figure;
-* based on historical sources whose attribution or wording is disputed.
-
-We do not guarantee that every quotation, attribution, translation, date, interpretation, or historical statement is complete, accurate, or universally accepted.
-
-The App should not be treated as a definitive academic or historical reference.
-
-## 4. Subscriptions
-
-Historical Wisdom may offer optional auto-renewable subscriptions through Apple's App Store.
-
-Available plans, prices, currencies, billing periods, trial offers, introductory offers, and Premium features are displayed in the App before purchase and may vary by country or region.
-
-Current plans may include weekly and yearly subscriptions.
-
-### Payment
-
-Payment is charged to your Apple ID when Apple confirms the purchase.
-
-We do not process or receive your full payment card details.
-
-Apple's applicable terms and conditions also apply to App Store purchases.
-
-### Automatic renewal
-
-Unless you cancel, an auto-renewable subscription automatically renews at the end of each subscription period.
-
-Your Apple account may be charged for renewal within 24 hours before the end of the current subscription period.
-
-You can manage or cancel your subscription through Apple's subscription-management settings.
-
-Deleting Historical Wisdom does not cancel an active subscription.
-
-Apple's subscription system controls billing and renewal.
-
-### Free trials and introductory offers
-
-Where available, free trials or introductory offers are subject to Apple's eligibility rules and the specific offer displayed before purchase.
-
-If you do not cancel before a trial or introductory period ends, the subscription may automatically convert into a paid subscription according to the terms shown at the time of purchase.
-
-### Refunds
-
-Refunds for App Store purchases are handled by Apple according to Apple's applicable policies and procedures.
-
-## 5. Premium access
-
-Premium may provide access to additional or expanded features and content, which may include:
-
-* expanded or unlimited quote access;
-* additional exploration;
-* saving and lists;
-* widgets and customization;
-* reading paths;
-* other Premium functionality introduced in the App.
-
-Features may change over time as Historical Wisdom is updated.
-
-Subscription access is subject to the status of the corresponding App Store entitlement.
-
-## 6. Restoring purchases
-
-Historical Wisdom may provide a restore-purchases function.
-
-Restoring purchases does not create a new purchase. It allows Apple and the App's subscription-management systems to determine whether you have an existing eligible entitlement.
-
-## 7. Deleting your data
-
-Historical Wisdom provides a **Delete My Data** option.
-
-Using this function deletes or initiates deletion of analytics and RevenueCat customer data associated with the relevant App installation, as described in the Privacy Policy.
-
-**Deleting your data does not cancel an Apple App Store subscription.**
-
-If you have an active subscription, you must cancel it separately through Apple's subscription-management system.
-
-Apple's billing and transaction records are controlled by Apple and are not deleted by the App's data-deletion function.
-
-## 8. Personal content
-
-Historical Wisdom may allow you to create personal collections, saved quotes, lists, or similar content.
-
-Such personal content may remain stored locally on your device and is not generally transmitted to our analytics providers.
-
-You are responsible for the content you save or create within the App.
-
-We do not claim ownership of your personal saved content.
-
-## 9. Intellectual property
-
-Historical Wisdom's software, interface, design, branding, graphics, original text, and other original materials are owned by or licensed to Peter Švorc unless otherwise indicated.
-
-Historical quotations and other historical materials may be in the public domain or subject to rights belonging to their respective owners, sources, or licensors.
-
-Nothing in these Terms grants you ownership of the App or its intellectual property.
-
-You may use the App and its content only as permitted by these Terms and applicable law.
-
-## 10. Third-party services
-
-Historical Wisdom relies on certain third-party services, which may include:
-
-* Apple and App Store services;
-* RevenueCat for subscription and entitlement management;
-* Mixpanel for product analytics;
-* other infrastructure or hosting providers, where applicable.
-
-Quote catalog content is currently shipped with the App. We may use infrastructure providers in the future if we introduce remote content updates.
-
-Your use of third-party services may also be subject to their applicable terms and privacy policies.
-
-We are not responsible for third-party services to the extent permitted by applicable law.
-
-## 11. Widgets and notifications
-
-Widgets and notifications depend on iOS functionality and permissions.
-
-We cannot guarantee that notifications or widgets will always appear, update, or operate without interruption because they may depend on Apple's operating system, device settings, permissions, power management, connectivity, or other factors outside our control.
-
-## 12. Availability and updates
-
-We may modify, update, suspend, or discontinue features of Historical Wisdom from time to time.
-
-We aim to provide reliable access but do not guarantee that the App will always be available, uninterrupted, or error-free.
-
-Updates may be required to continue using certain features.
-
-## 13. Disclaimer
-
-To the maximum extent permitted by applicable law, Historical Wisdom is provided on an "as is" and "as available" basis.
-
-We do not guarantee that:
-
-* the App will always be available;
-* the App will be error-free;
-* historical information will always be accurate or complete;
-* all quotations will have universally accepted attribution;
-* all features will remain available indefinitely.
-
-Nothing in these Terms excludes or limits mandatory consumer protections or other rights that cannot legally be excluded.
-
-## 14. Limitation of liability
-
-To the maximum extent permitted by applicable law, Peter Švorc will not be liable for indirect, incidental, special, consequential, or punitive damages arising from your use of the App.
-
-Nothing in these Terms limits liability where such limitation is prohibited by applicable law, including mandatory consumer rights.
-
-## 15. Consumer rights
-
-If you are a consumer in the European Union or European Economic Area, you retain any mandatory rights and protections granted to you by applicable consumer and other laws.
-
-Nothing in these Terms is intended to remove or restrict rights that cannot legally be waived.
-
-## 16. Children
-
-Historical Wisdom is not directed at children under 13.
-
-## 17. Privacy
-
-Our collection and processing of information is described in our Privacy Policy.
-
-The Privacy Policy forms part of the framework governing your use of the App with respect to personal-data processing.
-
-## 18. Changes to these Terms
-
-We may update these Terms when the App, our services, or applicable legal requirements change.
-
-When we make material changes, we will update the "Last updated" date and, where appropriate, provide additional notice.
-
-Your continued use of the App after an updated version becomes effective constitutes acceptance of the updated Terms to the extent permitted by applicable law.
-
-## 19. Governing law
-
-These Terms are governed by the laws of the Slovak Republic, without prejudice to mandatory consumer protections that apply in your country of residence.
-
-If you are a consumer in the European Union or EEA, you may also benefit from mandatory rights and protections under the laws applicable to you.
-
-## 20. Contact
-
-**Peter Švorc**  
-Slovakia
-
-**Email:** svorc930@gmail.com
+**Email:** support@bots5lab.com

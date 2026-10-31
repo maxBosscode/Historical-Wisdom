@@ -1,0 +1,234 @@
+# Terms of Service
+
+**Last updated: 31 October 2026**
+
+**Provider:** Peter Švorc, Slovakia  
+**App:** Historical Wisdom  
+**Contact:** support@bots5lab.com
+
+These Terms of Service ("Terms") govern your access to and use of the Historical Wisdom iOS application ("App").
+
+By downloading or using the App, you agree to these Terms. If you do not agree with these Terms, please do not use the App.
+
+## 1. About Historical Wisdom
+
+Historical Wisdom is a personal reflection, education, and inspiration application providing historical quotes, ideas, themes, and related content from notable historical figures and periods.
+
+The App is intended for general informational, educational, inspirational, and personal-development purposes.
+
+Historical Wisdom does not provide professional medical, psychological, financial, investment, legal, or other professional advice.
+
+## 2. Eligibility and use
+
+You may use the App for personal, lawful, non-commercial purposes.
+
+You agree not to:
+
+* use the App in violation of applicable laws or regulations;
+* attempt to interfere with or compromise the App or its services;
+* reverse engineer, decompile, or modify the App except where such activity cannot legally be restricted;
+* circumvent subscription, trial, entitlement, or access controls;
+* abuse purchase, restore, refund, or subscription systems;
+* copy, reproduce, redistribute, sell, or commercially exploit the App or its original content without authorization, except where permitted by law.
+
+## 3. Historical content
+
+Historical Wisdom aims to present useful and meaningful historical material.
+
+Historical sources, translations, interpretations, attributions, and versions of quotations can differ.
+
+Some quotations may be:
+
+* translated from another language;
+* shortened or edited for presentation;
+* commonly attributed to a historical figure;
+* based on historical sources whose attribution or wording is disputed.
+
+We do not guarantee that every quotation, attribution, translation, date, interpretation, or historical statement is complete, accurate, or universally accepted.
+
+The App should not be treated as a definitive academic or historical reference.
+
+## 4. Subscriptions and one-time unlocks
+
+Historical Wisdom may offer optional auto-renewable subscriptions and/or a one-time Lifetime unlock through Apple's App Store.
+
+Available plans, prices, currencies, billing periods, trial offers, introductory offers, and Premium features are displayed in the App before purchase and may vary by country or region.
+
+Current offerings may include:
+
+* a **weekly** auto-renewable subscription;
+* a **yearly** auto-renewable subscription;
+* a **Lifetime** one-time (non-consumable) unlock.
+
+Exact titles, lengths, and prices shown in the App Store and in the App at the time of purchase control.
+
+### Payment
+
+Payment is charged to your Apple ID when Apple confirms the purchase.
+
+We do not process or receive your full payment card details.
+
+Apple's applicable terms and conditions also apply to App Store purchases.
+
+### Automatic renewal (subscriptions)
+
+Unless you cancel, an auto-renewable subscription automatically renews at the end of each subscription period.
+
+Your Apple account may be charged for renewal within 24 hours before the end of the current subscription period.
+
+You can manage or cancel your subscription through Apple's subscription-management settings.
+
+Deleting Historical Wisdom does not cancel an active subscription.
+
+Apple's subscription system controls billing and renewal.
+
+Lifetime unlocks are one-time purchases and do not auto-renew.
+
+### Free trials and introductory offers
+
+Where available, free trials or introductory offers are subject to Apple's eligibility rules and the specific offer length and price displayed before purchase.
+
+If you do not cancel before a trial or introductory period ends, the subscription may automatically convert into a paid subscription according to the terms shown at the time of purchase.
+
+### Refunds
+
+Refunds for App Store purchases are handled by Apple according to Apple's applicable policies and procedures.
+
+## 5. Premium access
+
+Premium may provide access to additional or expanded features and content, which may include:
+
+* expanded or unlimited quote access;
+* additional exploration;
+* saving and lists beyond free limits;
+* widgets and customization beyond free limits;
+* reading paths;
+* other Premium functionality introduced in the App.
+
+Some features may remain available with free limits. Features may change over time as Historical Wisdom is updated.
+
+Subscription or Lifetime access is subject to the status of the corresponding App Store entitlement.
+
+## 6. Restoring purchases
+
+Historical Wisdom may provide a restore-purchases function.
+
+Restoring purchases does not create a new purchase. It allows Apple and the App's subscription-management systems to determine whether you have an existing eligible entitlement.
+
+## 7. Deleting your data
+
+Historical Wisdom provides a **Delete My Data** option.
+
+Using this function deletes or initiates deletion of analytics, in-app feedback, and RevenueCat customer data associated with the relevant App installation, as described in the Privacy Policy.
+
+**Deleting your data does not cancel an Apple App Store subscription.**
+
+If you have an active subscription, you must cancel it separately through Apple's subscription-management system.
+
+Apple's billing and transaction records are controlled by Apple and are not deleted by the App's data-deletion function.
+
+## 8. Personal content
+
+Historical Wisdom may allow you to create personal collections, saved quotes, lists, or similar content.
+
+Such personal content may remain stored locally on your device and is not generally transmitted to our analytics providers.
+
+You are responsible for the content you save or create within the App.
+
+We do not claim ownership of your personal saved content.
+
+## 9. Intellectual property
+
+Historical Wisdom's software, interface, design, branding, graphics, original text, and other original materials are owned by or licensed to Peter Švorc unless otherwise indicated.
+
+Historical quotations and other historical materials may be in the public domain or subject to rights belonging to their respective owners, sources, or licensors.
+
+Nothing in these Terms grants you ownership of the App or its intellectual property.
+
+You may use the App and its content only as permitted by these Terms and applicable law.
+
+## 10. Third-party services
+
+Historical Wisdom relies on certain third-party services, which may include:
+
+* Apple and App Store services;
+* RevenueCat for subscription and entitlement management;
+* Supabase for product analytics and in-app feedback storage;
+* other infrastructure or hosting providers, where applicable.
+
+Quote catalog content is currently shipped with the App. We may use infrastructure providers in the future if we introduce remote content updates.
+
+Your use of third-party services may also be subject to their applicable terms and privacy policies.
+
+We are not responsible for third-party services to the extent permitted by applicable law.
+
+## 11. Widgets and notifications
+
+Widgets and notifications depend on iOS functionality and permissions.
+
+We cannot guarantee that notifications or widgets will always appear, update, or operate without interruption because they may depend on Apple's operating system, device settings, permissions, power management, connectivity, or other factors outside our control.
+
+## 12. Availability and updates
+
+We may modify, update, suspend, or discontinue features of Historical Wisdom from time to time.
+
+We aim to provide reliable access but do not guarantee that the App will always be available, uninterrupted, or error-free.
+
+Updates may be required to continue using certain features.
+
+## 13. Disclaimer
+
+To the maximum extent permitted by applicable law, Historical Wisdom is provided on an "as is" and "as available" basis.
+
+We do not guarantee that:
+
+* the App will always be available;
+* the App will be error-free;
+* historical information will always be accurate or complete;
+* all quotations will have universally accepted attribution;
+* all features will remain available indefinitely.
+
+Nothing in these Terms excludes or limits mandatory consumer protections or other rights that cannot legally be excluded.
+
+## 14. Limitation of liability
+
+To the maximum extent permitted by applicable law, Peter Švorc will not be liable for indirect, incidental, special, consequential, or punitive damages arising from your use of the App.
+
+Nothing in these Terms limits liability where such limitation is prohibited by applicable law, including mandatory consumer rights.
+
+## 15. Consumer rights
+
+If you are a consumer in the European Union or European Economic Area, you retain any mandatory rights and protections granted to you by applicable consumer and other laws.
+
+Nothing in these Terms is intended to remove or restrict rights that cannot legally be waived.
+
+## 16. Children
+
+Historical Wisdom is not directed at children under 13.
+
+## 17. Privacy
+
+Our collection and processing of information is described in our Privacy Policy.
+
+The Privacy Policy forms part of the framework governing your use of the App with respect to personal-data processing.
+
+## 18. Changes to these Terms
+
+We may update these Terms when the App, our services, or applicable legal requirements change.
+
+When we make material changes, we will update the "Last updated" date and, where appropriate, provide additional notice.
+
+Your continued use of the App after an updated version becomes effective constitutes acceptance of the updated Terms to the extent permitted by applicable law.
+
+## 19. Governing law
+
+These Terms are governed by the laws of the Slovak Republic, without prejudice to mandatory consumer protections that apply in your country of residence.
+
+If you are a consumer in the European Union or EEA, you may also benefit from mandatory rights and protections under the laws applicable to you.
+
+## 20. Contact
+
+**Peter Švorc**  
+Slovakia
+
+**Email:** support@bots5lab.com
